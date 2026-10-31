@@ -1,0 +1,9 @@
+{
+  "bleu": 13.157874532657605,
+  "chrf": 42.28614520939603,
+  "inference_seconds": 115.54540970001835,
+  "seconds_per_sentence": 1.1554540970001836,
+  "parameters": 1100048384,
+  "train_seconds": null,
+  "adaptation": "zero-shot prompting"
+}

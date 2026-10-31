@@ -3,3 +3,6 @@ __pycache__/
 .env
 *.safetensors
 *.bin
+results/train.json
+results/validation.json
+results/test.json

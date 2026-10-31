@@ -1,0 +1,502 @@
+[
+  {
+    "source": "- You were at a bus stop kissing him!",
+    "reference": "- Vous étiez en train de vous embrasser à l'arrêt de bus!",
+    "prediction": "- !"
+  },
+  {
+    "source": "With irony and mischief the young Czech artist Krištof Kintera turns art and life on their heads.",
+    "reference": "Avec une ironie farceuse, le jeune artiste tchèque Krištof Kintera chamboule l’art et la vie.",
+    "prediction": "- Je l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est"
+  },
+  {
+    "source": "- Who's going to talk to the used car salesman?",
+    "reference": "Qui va parler au vendeur de voitures ? Big Freddy.",
+    "prediction": "- Il ?"
+  },
+  {
+    "source": "People think you are a great man, that your music speaks of humanity, warmth and understanding.",
+    "reference": "On vous dit éclairé : votre musique parle d'humanité, de chaleur et de compréhension.",
+    "prediction": "- Je l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est-"
+  },
+  {
+    "source": "Lace corals",
+    "reference": "Autres coraux",
+    "prediction": "- Il"
+  },
+  {
+    "source": "YEAH, THERE'S ONE MAN I KNOW WHO COULD NAIL HIM.",
+    "reference": "Dites, je me demandais...",
+    "prediction": "Je l'est l'est- Je l'est l'est l'est l'est l'est l'est- Je l'est- Je l'est- Je l'est l'est- Je l'est-"
+  },
+  {
+    "source": "Peter and I were in a car crash.",
+    "reference": "Peter et moi étions dans un accident de voiture...",
+    "prediction": "Je l'est l'est l'est l'est l'est l'est- Je l'est l'est l'est l'est l'est l'est l'est- Je l'est l'"
+  },
+  {
+    "source": "These laws establish a parliamentary republic and provide for the separation of powers.",
+    "reference": "Ces lois mettent en place une république parlementaire et prévoient la séparation des pouvoirs.",
+    "prediction": "- Il n'est à l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'"
+  },
+  {
+    "source": "Monitoring, research and evaluation activities for the country programme will be coordinated through the integrated monitoring and evaluation plan (IMEP).",
+    "reference": "Les activités de suivi, de recherche et d'évaluation entreprises au titre du programme de pays seront coordonnées à l'aide du plan intégré de suivi et d'évaluation.",
+    "prediction": "- Je l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est"
+  },
+  {
+    "source": "A meaningful review mechanism and constructive dialogue on technical assistance would play a key role in the operationalization of the Convention.",
+    "reference": "Un mécanisme de révision judicieux et un dialogue constructif sur l'assistance technique joueront un rôle déterminant pour rendre la convention opérationnelle.",
+    "prediction": "- Je l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est"
+  },
+  {
+    "source": "You're the only customer in the restaurant.",
+    "reference": "Tu es le seul client dans le restaurant.",
+    "prediction": "- Je n'est pas n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est"
+  },
+  {
+    "source": "Sydney, Esther will be in my office.",
+    "reference": "Esther sera dans mon bureau.",
+    "prediction": "- Je n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est"
+  },
+  {
+    "source": "Thus international cooperation cannot be considered merely an act of solidarity.",
+    "reference": "La coopération internationale ne peut donc être considérée uniquement comme un acte de solidarité.",
+    "prediction": "- Il n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est"
+  },
+  {
+    "source": "Okay, Mel. You're absolutely right.",
+    "reference": "OK Mel, tu as tout à fait raison.",
+    "prediction": "- Il n'est n'est n'est n'est n'est n'est n'est n'est pas."
+  },
+  {
+    "source": "- Charred body?",
+    "reference": "- Un corps ? Un incendie criminel ?",
+    "prediction": "- ?"
+  },
+  {
+    "source": "Admission is based on satisfactory assessment of subjects taught in the school year directly preceding the gimnazija at I Pagrindiné mokykla.",
+    "reference": "L’admission est basée sur les résultats obtenus dans les matières enseignées dans un ➧ Pagrindinė mokykla pendant l’année scolaire précédant directement le gimnazija.",
+    "prediction": "Je l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'"
+  },
+  {
+    "source": "JORGE ANTONIO, Asturias (22/4/2016)",
+    "reference": "JORGE ANTONIO, Asturias (22/4/2016)",
+    "prediction": "- Il n'est n'est n'est n'est n'est n'est n'est à l'est l'est l'est l'est l'est l'est l'est l'"
+  },
+  {
+    "source": "It is dusk of Awajicho of Tokyo.",
+    "reference": "C'est crépuscule d'Awajicho de Tokyo.",
+    "prediction": "- Il n'est n'est n'est n'est n'est n'est n'est n'est- n'est n'est- n'est n'est n'est- n'est n"
+  },
+  {
+    "source": "All hot objects emit electromagnetic waves--for example, visible light is emitted by the hot filament inside a lightbulb.",
+    "reference": "Tous les objets chauds émettent des ondes électromagnétiques--comme, par exemple, la lumière visible qui est émise par le filament chaud à l'intérieur d'une ampoule électrique.",
+    "prediction": "- Je l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est"
+  },
+  {
+    "source": "There are no cameras in there.",
+    "reference": "- Y a aucune caméra là-dedans.",
+    "prediction": "- Il n'est- n'est- n'est n'est n'est n'est- n'est-ce."
+  },
+  {
+    "source": "COMMITTEE FOR TRADE, INDUSTRY AND",
+    "reference": "COMMISSION ÉCONOMIQUE POUR L'EUROPE",
+    "prediction": "- Il n'est n'est n'est n'est- n'est- n'est- n'est n'est- n'est n'est n'est n'est n'est n'est-"
+  },
+  {
+    "source": "It's just right under there.",
+    "reference": "C'est juste ici, en dessous.",
+    "prediction": "C'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est"
+  },
+  {
+    "source": "The Government of Canada believes a healthy physical environment is important for children.",
+    "reference": "Le Gouvernement du Canada croit qu'il est important pour les enfants de vivre dans un environnement physique sain.",
+    "prediction": "- Il n'est n'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est"
+  },
+  {
+    "source": "How about a house call?\"",
+    "reference": "que penses-tu d'une visite a domicile ?\"",
+    "prediction": "- Il n'est n'est n'est- n'est- n'est n'est- n'est- n'est- n'est n'est- n'est n'est- n'est-"
+  },
+  {
+    "source": "I felt like I was in heaven as I watched the celebration.",
+    "reference": "Je me sentais comme étant au ciel tandis que je regardais la célébration.",
+    "prediction": "Je l'est l'est l'est l'est l'est l'est- Je l'est l'est l'est l'est l'est l'est l'est l'est l'est"
+  },
+  {
+    "source": "The ixodides should simply disengage once they're gorged with blood.",
+    "reference": "Elles vont simplement se détacher une fois gorgées de sang.",
+    "prediction": "- Je l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est"
+  },
+  {
+    "source": "Hurry up, dear!",
+    "reference": "Depeche-toi, cheri!",
+    "prediction": "- Il !"
+  },
+  {
+    "source": "This document aims to provide enough information to configure your X terminals and application servers to connect to each other.",
+    "reference": "Ce document tente d'apporter assez d'informations pour configurer vos terminaux X et vos applications serveur pour les connecter entre eux.",
+    "prediction": "- Il n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est"
+  },
+  {
+    "source": "- She is really superb.",
+    "reference": "- Elle est vraiment superbe.",
+    "prediction": "- Il n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est"
+  },
+  {
+    "source": "[3] An application under section 172 of the Canada Transportation Act (the CTA) must be filed by a person with a disability or on behalf of a person with a disability.",
+    "reference": "[3] Aux termes de l'article 172 de la Loi sur les transports au Canada (la LTC), une demande doit être déposée par une personne ayant une déficience ou en son nom.",
+    "prediction": "- Il à n'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est à l'est l'est l'est"
+  },
+  {
+    "source": "That's how you do it, boy.",
+    "reference": "C'est la classe, fiston.",
+    "prediction": "C'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est"
+  },
+  {
+    "source": "But the government and political parties aim to change that.",
+    "reference": "Les stratégies s'affinent pour développer des arguments convaincants.",
+    "prediction": "- Il n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est"
+  },
+  {
+    "source": "See these hands?",
+    "reference": "Vous voyez ces mains ?",
+    "prediction": "- ?"
+  },
+  {
+    "source": "Announcement of decisions taken in Coordinators' meeting Reform of Community trade defence instruments.",
+    "reference": "Communication des décisions adoptées lors de la réunion des coordinateurs Réforme des instruments communautaires de défense commerciale.",
+    "prediction": "- Il n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est"
+  },
+  {
+    "source": "Well, I'm having a Corvette, so deal with that!",
+    "reference": "Hé bien j'ai une Corvette, tu ferais mieux de t'y faire !",
+    "prediction": "Je !"
+  },
+  {
+    "source": "Latest visit 26 September 2007 04:17",
+    "reference": "Dernière visite 26 septembre 2007 04:17",
+    "prediction": "- Il"
+  },
+  {
+    "source": "And only silence and this waltz",
+    "reference": "Subsisteront",
+    "prediction": "- Je l'est- l'est- l'est l'est l'est l'est- l'est- l'est- l'est l'est- l'est l'est- l'est-"
+  },
+  {
+    "source": "Thanks, Hanky.",
+    "reference": "Merci, Hanky.",
+    "prediction": "- Il n'est n'est n'est- n'est- n'est n'est- n'est- n'est- n'est n'est- n'est n'est- n'est-"
+  },
+  {
+    "source": "- Sam, let's talk.",
+    "reference": "- Sam, il faut qu'on parle.",
+    "prediction": "- C'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'"
+  },
+  {
+    "source": "Embassy of the Islamic Republic of Afghanistan to Canada Omar Samad, Ambassador of the Islamic Republic of Afghanistan to Canada",
+    "reference": "Ambassade de la République islamique de l'Afghanistan Omar Samad, ambassadeur de la république islamique de l'afghanistan au canada",
+    "prediction": "- l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l"
+  },
+  {
+    "source": "With regard to General Service posts, the proposals reflect a significant reduction of posts in this category.",
+    "reference": "Répartition par classe des postes d'administrateur et de fonctionnaire de rang supérieur, pour l'exercice biennal 2006-2007 et les quatre précédents",
+    "prediction": "- Je l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est"
+  },
+  {
+    "source": "Overnight Social security funds",
+    "reference": "Administrations de sécurité sociale Administrations de sécurité sociale",
+    "prediction": "- Il"
+  },
+  {
+    "source": "Mr DENDIAS (Greece).",
+    "reference": "LE PRÉSIDENT.",
+    "prediction": "- Il n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est"
+  },
+  {
+    "source": "† cut-off accepted as indicative of protection",
+    "reference": "† seuil considéré comme indicateur de protection",
+    "prediction": "- - - - - l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l"
+  },
+  {
+    "source": "- to come looking for me, did I?",
+    "reference": "- de venir me chercher, n'est-ce pas ?",
+    "prediction": "- Je ?"
+  },
+  {
+    "source": "Variances in the number of personnel, compared to the 2007/08 budget, have been explained under the respective components.",
+    "reference": "Les variations des effectifs par rapport au budget 2007/08 sont analysées au niveau de chaque composante.",
+    "prediction": "- Je l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est"
+  },
+  {
+    "source": "The goal of these meetings was to reactivate the CMP and to reinforce its powers in order to meet the requirements of the Convention.",
+    "reference": "Le but de ces réunions était de réactiver le CMP et de renforcer ses pouvoirs pour safisfaire aux exigences de la Convention.",
+    "prediction": "- Il à n'est l'est à l'est à l'est l'est l'est l'est l'est l'est l'est à l'est à l'est l'"
+  },
+  {
+    "source": "Selection Criteria and Laboratory Evaluation of Oil Spill Sorbents - Update III review and evaluation 1985 $ 15.00",
+    "reference": "CritÃ¨res de sÃ©lection et Ã©valuation en laboratoire de sorbants utilisables en cas de dÃ©versements pÃ©troliers : troisiÃ¨me mise Ã jour rÃ©vision et Ã©valuation 1985 $CAN 15,00",
+    "prediction": "- Il n'est l'est l'est l'est l'est l'est l'est l'est- l'est l'est- l'est l'est l'est- l'est l"
+  },
+  {
+    "source": "In Summer 1949, Furtwängler conducted Fidelio again as well as a beautiful Magic Flute.",
+    "reference": "Durant l'été, 1949 Furtwängler dirigea à nouveau Fidelio ainsi qu'une magnifique Flûte enchantée.",
+    "prediction": "- Je l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est-"
+  },
+  {
+    "source": "Well, that's what you get for dating a woman.",
+    "reference": "Ça t'apprendra à sortir avec une femme.",
+    "prediction": "- C'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'"
+  },
+  {
+    "source": "- Lum Yung?",
+    "reference": "- Lum Yung.",
+    "prediction": "- ?"
+  },
+  {
+    "source": "Nor will it directly result in increased costs for consumers of payday loans, the payday lending industry, or the Province of Manitoba.",
+    "reference": "Elle n'entraînera, pas d'augmentation directe des coûts pour les consommateurs des prêts sur salaire, l'industrie des prêts sur salaire ou la province du Manitoba.",
+    "prediction": "- Il n'est n'est n'est n'est n'est n'est n'est n'est n'est l'est l'est l'est l'est l'est l'est"
+  },
+  {
+    "source": "And then they drank out of it? Fucking Christians.",
+    "reference": "Si vous voulez en savoir plus sur Stalin, étudiez Henry VIII.",
+    "prediction": "- Je ?"
+  },
+  {
+    "source": "I can't wait for the wedding!",
+    "reference": "Je ne peux même plus attendre la ronde nuptiale.",
+    "prediction": "Je !"
+  },
+  {
+    "source": "She's studying labor law.",
+    "reference": "Elle étudie le droit.",
+    "prediction": "C'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est"
+  },
+  {
+    "source": "Are you gonna let him get away with that?",
+    "reference": "Tu vas le laisser faire ?",
+    "prediction": "- ?"
+  },
+  {
+    "source": "In other words, it approaches...",
+    "reference": "En d'autres termes, cela s'approche...",
+    "prediction": "- Il n'est- n'est- n'est n'est n'est n'est- n'est- n'est- n'est n'est- n'est n'est- n'est-"
+  },
+  {
+    "source": "Spillways capable of handling the postulated flood events are incorporated either into the dam structures, or are constructed as separate structures.",
+    "reference": "On a integre à la structure des barrages des evacuateurs de crues pouvant supporter les précipitations hypothetiques.",
+    "prediction": "- Je l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est"
+  },
+  {
+    "source": "Let's just calmly discu...",
+    "reference": "On a qu'à discuter calmement...",
+    "prediction": "C'est n'est n'est n'est n'est n'est n'est n'est n'est !"
+  },
+  {
+    "source": "I'm so glad my mom saved those.",
+    "reference": "Je suis contente que ma mère les ai sauvés.",
+    "prediction": "Je l'est n'est pas n'est l'est l'est l'est n'est n'est n'est n'est n'est l'est n'est l'est n'est n"
+  },
+  {
+    "source": "What beats me is how she got Ed to drive her into Denver.",
+    "reference": "Ce qui me dépasse, c'est comment elle a convaincu Ed de l'emmener à Denver.",
+    "prediction": "- Je l'est l'est l'est l'est l'est l'est l'est l'est- l'est l'est- l'est l'est l'est-ce'est n'"
+  },
+  {
+    "source": "(9) Subsection (3) applies to expenses incurred after 1996, except that",
+    "reference": "(9) Le paragraphe (3) s'applique aux frais engagés après 1996.",
+    "prediction": "- Il n'est l'est l'est- l'est- l'est l'est- l'est- l'est- l'est l'est- l'est l'est- l'est-"
+  },
+  {
+    "source": "- This area is overrun with spirit vines",
+    "reference": "Cette zone est couverte de plantes spirituelles.",
+    "prediction": "- Il n'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est-"
+  },
+  {
+    "source": "On landing, the aircraft touched down near the centre of the runway, approximately 300feet beyond the threshold.",
+    "reference": "À l'atterrissage, l'avion a touché le sol près du centre de la piste, à quelque 300pieds au-delà du seuil.",
+    "prediction": "- Je l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est"
+  },
+  {
+    "source": "Source:examplereferenceletter.com",
+    "reference": "Source:www.apexbillingsolutions.net",
+    "prediction": "- Je n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est"
+  },
+  {
+    "source": "Maybe squeeze a little truth out.",
+    "reference": "Et me forçait à dire un peu la vérité.",
+    "prediction": "- Je l'est ?"
+  },
+  {
+    "source": "That plane arrives at 4:00 p.m.",
+    "reference": "L'avion se pose à 16h.",
+    "prediction": "C'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est"
+  },
+  {
+    "source": "This has been confirmed by visual records of the site on previous surveys using ROVs.",
+    "reference": "Cette conclusion a été confirmée par des registres visuels du site obtenus à l'aide d'engins télécommandés dans le cadre de levés antérieurs.",
+    "prediction": "- Il n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est"
+  },
+  {
+    "source": "I feel like my cock isn't big enough for you.",
+    "reference": "J'ai l'impression que ma queue est trop petite pour toi.",
+    "prediction": "Je n'est pas n'est pas n'est n'est pas n'est pas n'est n'est n'est n'est n'est n'est n'est n'est n'est n'"
+  },
+  {
+    "source": "When I behold the violet past prime.",
+    "reference": "\"Violette, à mes yeux s'effacer ton printemps",
+    "prediction": "Je l'est l'est l'est l'est- Je l'est- Je l'est l'est l'est l'est- Je l'est l'est l'est l'est l'est-"
+  },
+  {
+    "source": "Come here, you sick... Hey.",
+    "reference": "Espèce de malade...",
+    "prediction": "- Je n'est n'est n'est n'est n'est n'est n'est n'est- n'est n'est n'est n'est- n'est- n'est n"
+  },
+  {
+    "source": "I even promised her it would never happen again.",
+    "reference": "Je lui ai même promis que ça n'arriverait plus.",
+    "prediction": "Je l'est n'est l'est l'est- Je l'est n'est n'est l'est l'est- Je l'est l'est l'est l'est l'est n'"
+  },
+  {
+    "source": "The Monitoring Group has been able to verify the latter claim, with the assistance of Transitional Federal Government security officials.",
+    "reference": "Le Groupe a pu vérifier cette dernière assertion avec l'aide de responsables de la sécurité du Gouvernement.",
+    "prediction": "- Je l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est"
+  },
+  {
+    "source": "- Shirts are on top this time.",
+    "reference": "- Les chemises sont dessus, cette fois.",
+    "prediction": "- Je n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est"
+  },
+  {
+    "source": "Which way do you look at this ?",
+    "reference": "Comment on regarde cette photo?",
+    "prediction": "- ?"
+  },
+  {
+    "source": "Source:www.rotomag.com",
+    "reference": "Source:corsi.unibo.it",
+    "prediction": "- Je n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est"
+  },
+  {
+    "source": "(Table 1) This gap has reached 2.5% of the world gross product.",
+    "reference": "Cette brèche a atteint dans le monde entier des sommets, 2,5% du produit intérieur brut.",
+    "prediction": "- Il n'est n'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est"
+  },
+  {
+    "source": "T.A., equipment, raw material for local production of IUD.",
+    "reference": "AT., équipements, matières premières pour la production locale de stérilets. A.T. par Organon (NL).",
+    "prediction": "Je n'est pas."
+  },
+  {
+    "source": "6 of hearts.",
+    "reference": "Le 6 de coeur.",
+    "prediction": "- Il n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est-"
+  },
+  {
+    "source": "They promised to do their business here.",
+    "reference": "Ils ont promis de faire leur travail.",
+    "prediction": "- Il n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est"
+  },
+  {
+    "source": "Hitler was elected democratically.",
+    "reference": "- Hitler est élu chancelier du Reich... démocratiquement.",
+    "prediction": "- Je n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est"
+  },
+  {
+    "source": "Thanks for your permission.",
+    "reference": "Merci pour l'autorisation.",
+    "prediction": "- Il n'est n'est n'est- n'est- n'est n'est- n'est- n'est- n'est n'est- n'est n'est-ce."
+  },
+  {
+    "source": "Well, if you're in the illegal weapons business, your list of potential enemies is bound to be a long one.",
+    "reference": "Bien, si tu es dans le commerce illégal d'armes, ta liste d'ennemis potentiels est à coup sûr très longue.",
+    "prediction": "- Il n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est"
+  },
+  {
+    "source": "You, too, Marigold, come to... ~ .. me.",
+    "reference": "Vous aussi, Marigold, venez voir... - Venez me voir, ma chérie.",
+    "prediction": "- Je n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est"
+  },
+  {
+    "source": "I don't need to see his face, Diane.",
+    "reference": "Je n'ai pas besoin de voir son visage, Diane.",
+    "prediction": "Je n'est pas n'est pas n'est pas n'est pas n'est pas."
+  },
+  {
+    "source": "It was noted that the text of the applicable provisions was different in these Regulations.",
+    "reference": "On a fait observer que le texte des dispositions applicables était différent dans ces Règlements.",
+    "prediction": "- Je l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est"
+  },
+  {
+    "source": "These Christians expressed with subtlety their concern for the future.",
+    "reference": "Ces chrétiens exprimaient avec délicatesse leur souffrance par rapport à l'avenir.",
+    "prediction": "- Je l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est"
+  },
+  {
+    "source": "He came papusca barbie summer and needs a special costumatie to withstand...",
+    "reference": "Il est venu papusca barbie été et a besoin d'un costumatie spéciale pour...",
+    "prediction": "- Il n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est"
+  },
+  {
+    "source": "- You have heard of us?",
+    "reference": "- Vous avez entendu parler de nous?",
+    "prediction": "- ?"
+  },
+  {
+    "source": "Coach, I'm a humanist.",
+    "reference": "Je suis une humaniste.",
+    "prediction": "Je n'est pas."
+  },
+  {
+    "source": "Oh, yeah. Dinner sounds great.",
+    "reference": "Un dîner serait super.",
+    "prediction": "- Je n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est n'est"
+  },
+  {
+    "source": "So, uh, what game are you...",
+    "reference": "Alors quel jeux es-tu...",
+    "prediction": "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -"
+  },
+  {
+    "source": "France (10 of 135)",
+    "reference": "France (10 de 135)",
+    "prediction": "- Il"
+  },
+  {
+    "source": "Credit card address verification",
+    "reference": "Vérification d'adresse par carte de crédit",
+    "prediction": "- Il n'est l'est l'est l'est l'est l'est l'est l'est l'est- l'est l'est l'est- l'est- l'est l"
+  },
+  {
+    "source": "I've got cream cakes, sweet meats, pickled herring, and crystallized dates.",
+    "reference": "J'ai du gâteau à la crème, de la viande, du hareng fumé et des dattes confites.",
+    "prediction": "Je l'est l'est- Je l'est l'est l'est l'est l'est l'est- Je l'est- Je l'est- Je l'est l'est- Je l'est-"
+  },
+  {
+    "source": "stinky Charlie.",
+    "reference": "Charlie le puant.",
+    "prediction": "- Je n'est- n'est- n'est n'est n'est n'est- n'est- n'est- n'est n'est- n'est n'est- n'est-"
+  },
+  {
+    "source": "Anything you want for a tenner.",
+    "reference": "Tout ce que vous voulez pour 10 livres.",
+    "prediction": "- Il n'est- n'est- n'est n'est n'est n'est- n'est- n'est- n'est n'est- n'est n'est- n'est-"
+  },
+  {
+    "source": "USE work of start (2831)",
+    "reference": "USEpatrimoine culturel (2�31) organisation de volontaires patrimoine régional",
+    "prediction": "- l'est l'est l'est l'est l'est l'est l'est l'est l'est- l'est l'est l'est l'est l'est l'est-"
+  },
+  {
+    "source": "Beam!",
+    "reference": "Beam !",
+    "prediction": "- Il !"
+  },
+  {
+    "source": "Regulatory regimes differ from province to province and, indeed, sometimes two or three regimes operate within a province.",
+    "reference": "Les régimes réglementaires applicables à cet égard diffèrent d'une province à l'autre et même, parfois, deux ou trois régimes s'appliquent dans la même province.",
+    "prediction": "- Je l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est l'est"
+  }
+]

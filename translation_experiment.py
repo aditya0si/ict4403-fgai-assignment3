@@ -11,11 +11,11 @@ from pathlib import Path
 import numpy as np
 import torch
 from datasets import load_dataset
-from peft import LoraConfig, TaskType, get_peft_model
 from sacrebleu.metrics import BLEU, CHRF
 from torch import nn
 from torch.utils.data import DataLoader, Dataset
 from transformers import AutoModelForCausalLM, AutoModelForSeq2SeqLM, AutoTokenizer
+from transformers.optimization import Adafactor
 
 SEED = 4403
 TRAIN_N, VAL_N, TEST_N = 1200, 100, 100
@@ -44,9 +44,17 @@ def clean_pairs(split, n):
     return rows
 
 
-train = clean_pairs("train", TRAIN_N)
-valid = clean_pairs("validation", VAL_N)
-test = clean_pairs("test", TEST_N)
+def cached_split(name, n):
+    path = OUT / f"{name}.json"
+    if path.exists():
+        rows = json.loads(path.read_text(encoding="utf-8"))
+        if len(rows) == n: return rows
+    return clean_pairs(name, n)
+
+
+train = cached_split("train", TRAIN_N)
+valid = cached_split("validation", VAL_N)
+test = cached_split("test", TEST_N)
 for name, rows in [("train", train), ("validation", valid), ("test", test)]:
     (OUT / f"{name}.json").write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding="utf-8")
 print("Data:", {"train": len(train), "validation": len(valid), "test": len(test)})
@@ -153,24 +161,28 @@ def run_mt5():
     tok = AutoTokenizer.from_pretrained(name)
     model = AutoModelForSeq2SeqLM.from_pretrained(name)
     params = sum(p.numel() for p in model.parameters())
-    model = get_peft_model(model, LoraConfig(task_type=TaskType.SEQ_2_SEQ_LM, r=8,
-                                             lora_alpha=16, lora_dropout=.05, target_modules=["q", "v"]))
     model.to(DEVICE)
-    opt = torch.optim.AdamW((p for p in model.parameters() if p.requires_grad), lr=3e-4)
+    # Full fine-tuning is more effective here than the short LoRA run: mT5-small
+    # is a denoising model, not an instruction-tuned translator.
+    opt = Adafactor(model.parameters(), lr=1e-3, scale_parameter=False,
+                    relative_step=False, warmup_init=False, clip_threshold=1.0)
     def batches(rows, shuffle=False):
         indices = list(range(len(rows)))
         if shuffle: random.shuffle(indices)
-        for k in range(0, len(indices), BATCH):
-            chunk = [rows[i] for i in indices[k:k+BATCH]]
+        for k in range(0, len(indices), 2):
+            chunk = [rows[i] for i in indices[k:k+2]]
             x = tok(["translate English to French: " + r["source"] for r in chunk], padding=True, truncation=True, max_length=MAX_SOURCE, return_tensors="pt").to(DEVICE)
             y = tok(text_target=[r["reference"] for r in chunk], padding=True, truncation=True, max_length=MAX_TARGET, return_tensors="pt")["input_ids"].to(DEVICE)
             y[y == tok.pad_token_id] = -100
             yield x, y
     sync(); start = time.perf_counter(); model.train()
-    for epoch in range(EPOCHS):
-        losses=[]
-        for x,y in batches(train, True):
-            opt.zero_grad(); loss=model(**x, labels=y).loss; loss.backward(); opt.step(); losses.append(loss.item())
+    for epoch in range(5):
+        losses=[]; opt.zero_grad()
+        for step,(x,y) in enumerate(batches(train, True), 1):
+            loss=model(**x, labels=y).loss
+            (loss/4).backward(); losses.append(loss.item())
+            if step % 4 == 0 or step == (len(train)+1)//2:
+                opt.step(); opt.zero_grad()
         print("mT5 epoch", epoch+1, "loss", np.mean(losses))
     sync(); train_s=time.perf_counter()-start
     model.eval(); preds=[]; sync(); start=time.perf_counter()
@@ -179,7 +191,7 @@ def run_mt5():
             ids=model.generate(**x, max_new_tokens=MAX_TARGET, num_beams=1, do_sample=False)
             preds += [s.strip() for s in tok.batch_decode(ids, skip_special_tokens=True)]
     sync(); infer_s=time.perf_counter()-start
-    save_result("mt5_small", preds, score(preds, infer_s, params, train_s, "LoRA fine-tuning"))
+    save_result("mt5_small", preds, score(preds, infer_s, params, train_s, "full fine-tuning with Adafactor"))
     del model,opt; gc.collect(); torch.cuda.empty_cache() if torch.cuda.is_available() else None
 
 
@@ -192,11 +204,12 @@ def run_causal(label, model_name):
     preds=[]; sync(); start=time.perf_counter()
     for row in test:
         messages=[{"role":"user","content":"Translate the following English sentence into French. Output only the translation.\nEnglish: "+row["source"]}]
-        inputs=tok.apply_chat_template(messages, add_generation_prompt=True, return_tensors="pt").to(DEVICE)
+        inputs=tok.apply_chat_template(messages, add_generation_prompt=True,
+                                       return_tensors="pt", return_dict=True).to(DEVICE)
         with torch.no_grad():
-            ids=model.generate(inputs, max_new_tokens=MAX_TARGET, do_sample=False, num_beams=1,
+            ids=model.generate(**inputs, max_new_tokens=MAX_TARGET, do_sample=False, num_beams=1,
                                pad_token_id=tok.pad_token_id)
-        preds.append(tok.decode(ids[0, inputs.shape[1]:], skip_special_tokens=True).strip())
+        preds.append(tok.decode(ids[0, inputs["input_ids"].shape[1]:], skip_special_tokens=True).strip())
     sync(); infer_s=time.perf_counter()-start
     save_result(label, preds, score(preds, infer_s, params, None, "zero-shot prompting"))
     # Temperature analysis: same 10 source sentences, three temperatures, fixed seed.
@@ -205,12 +218,13 @@ def run_causal(label, model_name):
         torch.manual_seed(SEED)
         for row in test[:10]:
             messages=[{"role":"user","content":"Translate into French. Output only the translation.\nEnglish: "+row["source"]}]
-            inputs=tok.apply_chat_template(messages, add_generation_prompt=True, return_tensors="pt").to(DEVICE)
+            inputs=tok.apply_chat_template(messages, add_generation_prompt=True,
+                                           return_tensors="pt", return_dict=True).to(DEVICE)
             with torch.no_grad():
-                ids=model.generate(inputs, max_new_tokens=MAX_TARGET, do_sample=True, temperature=temperature,
+                ids=model.generate(**inputs, max_new_tokens=MAX_TARGET, do_sample=True, temperature=temperature,
                                    top_p=.9, pad_token_id=tok.pad_token_id)
             samples.append({"temperature":temperature, **row,
-                            "prediction":tok.decode(ids[0, inputs.shape[1]:], skip_special_tokens=True).strip()})
+                            "prediction":tok.decode(ids[0, inputs["input_ids"].shape[1]:], skip_special_tokens=True).strip()})
     (OUT/f"{label}_temperature.json").write_text(json.dumps(samples, ensure_ascii=False, indent=2), encoding="utf-8")
     del model; gc.collect(); torch.cuda.empty_cache() if torch.cuda.is_available() else None
 

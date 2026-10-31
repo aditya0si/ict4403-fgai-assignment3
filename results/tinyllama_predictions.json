@@ -1,0 +1,502 @@
+[
+  {
+    "source": "- You were at a bus stop kissing him!",
+    "reference": "- Vous étiez en train de vous embrasser à l'arrêt de bus!",
+    "prediction": "- Vous êtes allé à un bureau de bus se frotter !"
+  },
+  {
+    "source": "With irony and mischief the young Czech artist Krištof Kintera turns art and life on their heads.",
+    "reference": "Avec une ironie farceuse, le jeune artiste tchèque Krištof Kintera chamboule l’art et la vie.",
+    "prediction": "En français : Avec ironie et mélancolie, l'artiste tchécoslovaque Krištof Kintera met en scène l'art et la vie en dérision."
+  },
+  {
+    "source": "- Who's going to talk to the used car salesman?",
+    "reference": "Qui va parler au vendeur de voitures ? Big Freddy.",
+    "prediction": "- Qui parlera au vendeur de véhicules en second?"
+  },
+  {
+    "source": "People think you are a great man, that your music speaks of humanity, warmth and understanding.",
+    "reference": "On vous dit éclairé : votre musique parle d'humanité, de chaleur et de compréhension.",
+    "prediction": "Personne pensait que tu es un homme étoilé, que ton musique évoque la humanité, la chaleur et l'intimité."
+  },
+  {
+    "source": "Lace corals",
+    "reference": "Autres coraux",
+    "prediction": "Fleurs de lace"
+  },
+  {
+    "source": "YEAH, THERE'S ONE MAN I KNOW WHO COULD NAIL HIM.",
+    "reference": "Dites, je me demandais...",
+    "prediction": "Français: OUI, IL Y EXISTE UN MANQUE À L'ENFANT QUI POUVE NAGER."
+  },
+  {
+    "source": "Peter and I were in a car crash.",
+    "reference": "Peter et moi étions dans un accident de voiture...",
+    "prediction": "Français: Peter et moi sommes tombés dans un accident automobile.\n\nVoici la traduction en français de l'expression :\n\nEnglish: Peter and I were in a car crash."
+  },
+  {
+    "source": "These laws establish a parliamentary republic and provide for the separation of powers.",
+    "reference": "Ces lois mettent en place une république parlementaire et prévoient la séparation des pouvoirs.",
+    "prediction": "French: Ces lois établissent un État parlementaire et garantissent la séparation des pouvoirs."
+  },
+  {
+    "source": "Monitoring, research and evaluation activities for the country programme will be coordinated through the integrated monitoring and evaluation plan (IMEP).",
+    "reference": "Les activités de suivi, de recherche et d'évaluation entreprises au titre du programme de pays seront coordonnées à l'aide du plan intégré de suivi et d'évaluation.",
+    "prediction": "Fonctionnement, recherche et évaluation des activités montrées par le plan d'évaluation intégré (IMEP) (réseau)."
+  },
+  {
+    "source": "A meaningful review mechanism and constructive dialogue on technical assistance would play a key role in the operationalization of the Convention.",
+    "reference": "Un mécanisme de révision judicieux et un dialogue constructif sur l'assistance technique joueront un rôle déterminant pour rendre la convention opérationnelle.",
+    "prediction": "Fonctionnalité de mécanisme de révision significatif et dialogue constructif sur l'assistance technique jouera un rôle essentiel dans la mise en œuvre de la Convention."
+  },
+  {
+    "source": "You're the only customer in the restaurant.",
+    "reference": "Tu es le seul client dans le restaurant.",
+    "prediction": "Vous êtes le seul client dans le restaurant."
+  },
+  {
+    "source": "Sydney, Esther will be in my office.",
+    "reference": "Esther sera dans mon bureau.",
+    "prediction": "Français: Sydney, Esther sera dans mon bureau."
+  },
+  {
+    "source": "Thus international cooperation cannot be considered merely an act of solidarity.",
+    "reference": "La coopération internationale ne peut donc être considérée uniquement comme un acte de solidarité.",
+    "prediction": "\"Ce n'est pas seulement une coopération internationale qui ne peut pas être considéré comme une simple acte de solidarité.\""
+  },
+  {
+    "source": "Okay, Mel. You're absolutely right.",
+    "reference": "OK Mel, tu as tout à fait raison.",
+    "prediction": "Français: Oui, Mel. Vous avez raison."
+  },
+  {
+    "source": "- Charred body?",
+    "reference": "- Un corps ? Un incendie criminel ?",
+    "prediction": "- Le corps brûlé?"
+  },
+  {
+    "source": "Admission is based on satisfactory assessment of subjects taught in the school year directly preceding the gimnazija at I Pagrindiné mokykla.",
+    "reference": "L’admission est basée sur les résultats obtenus dans les matières enseignées dans un ➧ Pagrindinė mokykla pendant l’année scolaire précédant directement le gimnazija.",
+    "prediction": "Accès est basé sur l'assessement satisfaisant des matières enseignées dans la scolarité directe du lycée en cours à I Pagrindiné mokykla."
+  },
+  {
+    "source": "JORGE ANTONIO, Asturias (22/4/2016)",
+    "reference": "JORGE ANTONIO, Asturias (22/4/2016)",
+    "prediction": "Jorge Antonio, Asturias (22/4/2016)"
+  },
+  {
+    "source": "It is dusk of Awajicho of Tokyo.",
+    "reference": "C'est crépuscule d'Awajicho de Tokyo.",
+    "prediction": "Il est dîs du soir de Awajicho de Tokyo."
+  },
+  {
+    "source": "All hot objects emit electromagnetic waves--for example, visible light is emitted by the hot filament inside a lightbulb.",
+    "reference": "Tous les objets chauds émettent des ondes électromagnétiques--comme, par exemple, la lumière visible qui est émise par le filament chaud à l'intérieur d'une ampoule électrique.",
+    "prediction": "Français: Toutes les objets chauds émettent des waves électromagnétiques--c'est-à-dire, les rayons lumineux qui sont émis par le filon chaud dans un lampe à filament."
+  },
+  {
+    "source": "There are no cameras in there.",
+    "reference": "- Y a aucune caméra là-dedans.",
+    "prediction": "Français: Il n'y a pas de caméras dans là-bas."
+  },
+  {
+    "source": "COMMITTEE FOR TRADE, INDUSTRY AND",
+    "reference": "COMMISSION ÉCONOMIQUE POUR L'EUROPE",
+    "prediction": "Comité de commerce, industrie et"
+  },
+  {
+    "source": "It's just right under there.",
+    "reference": "C'est juste ici, en dessous.",
+    "prediction": "French: C'est juste là-bas."
+  },
+  {
+    "source": "The Government of Canada believes a healthy physical environment is important for children.",
+    "reference": "Le Gouvernement du Canada croit qu'il est important pour les enfants de vivre dans un environnement physique sain.",
+    "prediction": "Le gouvernement du Canada croit que l'environnement physique est important pour les enfants."
+  },
+  {
+    "source": "How about a house call?\"",
+    "reference": "que penses-tu d'une visite a domicile ?\"",
+    "prediction": "Français: Comment un visite à l'appartement ?"
+  },
+  {
+    "source": "I felt like I was in heaven as I watched the celebration.",
+    "reference": "Je me sentais comme étant au ciel tandis que je regardais la célébration.",
+    "prediction": "Français: Je sentais que j'étais en pleine éternité en regardant la célébration.\n\nVoici la traduction de l'expression en français."
+  },
+  {
+    "source": "The ixodides should simply disengage once they're gorged with blood.",
+    "reference": "Elles vont simplement se détacher une fois gorgées de sang.",
+    "prediction": "Le ixodides doivent être simplement détachés quand ils sont gorgés de sang."
+  },
+  {
+    "source": "Hurry up, dear!",
+    "reference": "Depeche-toi, cheri!",
+    "prediction": "Vous devez aller, mon cher !"
+  },
+  {
+    "source": "This document aims to provide enough information to configure your X terminals and application servers to connect to each other.",
+    "reference": "Ce document tente d'apporter assez d'informations pour configurer vos terminaux X et vos applications serveur pour les connecter entre eux.",
+    "prediction": "Fonctionnalité : Cette documentation vise à fournir suffisamment d'informations pour configurer vos terminals X et serveurs d'applications pour se connecter entre eux."
+  },
+  {
+    "source": "- She is really superb.",
+    "reference": "- Elle est vraiment superbe.",
+    "prediction": "- Elle est vraiment superbe."
+  },
+  {
+    "source": "[3] An application under section 172 of the Canada Transportation Act (the CTA) must be filed by a person with a disability or on behalf of a person with a disability.",
+    "reference": "[3] Aux termes de l'article 172 de la Loi sur les transports au Canada (la LTC), une demande doit être déposée par une personne ayant une déficience ou en son nom.",
+    "prediction": "French: [3] Une application sous la section 172 du Code de l'Transport du Canada (le CTA) doit être soumise par un personne avec une déficience ou sur la demande d'une personne avec une déficience."
+  },
+  {
+    "source": "That's how you do it, boy.",
+    "reference": "C'est la classe, fiston.",
+    "prediction": "French: C'est comment tu fais, garçon."
+  },
+  {
+    "source": "But the government and political parties aim to change that.",
+    "reference": "Les stratégies s'affinent pour développer des arguments convaincants.",
+    "prediction": "French: Mais le gouvernement et les partis politiques vont changer cela."
+  },
+  {
+    "source": "See these hands?",
+    "reference": "Vous voyez ces mains ?",
+    "prediction": "Voici ces mains?"
+  },
+  {
+    "source": "Announcement of decisions taken in Coordinators' meeting Reform of Community trade defence instruments.",
+    "reference": "Communication des décisions adoptées lors de la réunion des coordinateurs Réforme des instruments communautaires de défense commerciale.",
+    "prediction": "French: Annonce des décisions prises lors du réunion des commissaires Coordinateurs de la politique commerciale de la Communauté."
+  },
+  {
+    "source": "Well, I'm having a Corvette, so deal with that!",
+    "reference": "Hé bien j'ai une Corvette, tu ferais mieux de t'y faire !",
+    "prediction": "Français: Bien, je suis un Corvette, donc vous devez l'accueillir !"
+  },
+  {
+    "source": "Latest visit 26 September 2007 04:17",
+    "reference": "Dernière visite 26 septembre 2007 04:17",
+    "prediction": "Traduire le texte suivant en français.\n\nEnglish: Visite la plus récente 26 septembre 2007 04:17"
+  },
+  {
+    "source": "And only silence and this waltz",
+    "reference": "Subsisteront",
+    "prediction": "Et seulement la silence et ce waltz."
+  },
+  {
+    "source": "Thanks, Hanky.",
+    "reference": "Merci, Hanky.",
+    "prediction": "Français: Merci, Hanky."
+  },
+  {
+    "source": "- Sam, let's talk.",
+    "reference": "- Sam, il faut qu'on parle.",
+    "prediction": "- Sam, parlez-vous?"
+  },
+  {
+    "source": "Embassy of the Islamic Republic of Afghanistan to Canada Omar Samad, Ambassador of the Islamic Republic of Afghanistan to Canada",
+    "reference": "Ambassade de la République islamique de l'Afghanistan Omar Samad, ambassadeur de la république islamique de l'afghanistan au canada",
+    "prediction": "L'ambassade de l'Islamique république d'Afghanistan au Canada, Omar Samad, ambassadeur de l'Islamique république d'Afghanistan au Canada."
+  },
+  {
+    "source": "With regard to General Service posts, the proposals reflect a significant reduction of posts in this category.",
+    "reference": "Répartition par classe des postes d'administrateur et de fonctionnaire de rang supérieur, pour l'exercice biennal 2006-2007 et les quatre précédents",
+    "prediction": "En face de projets de postes de service général, les propositions renvoient à une réduction significative des postes dans cette catégorie."
+  },
+  {
+    "source": "Overnight Social security funds",
+    "reference": "Administrations de sécurité sociale Administrations de sécurité sociale",
+    "prediction": "French: L'épargne sociale est en cours de récupération"
+  },
+  {
+    "source": "Mr DENDIAS (Greece).",
+    "reference": "LE PRÉSIDENT.",
+    "prediction": "Monsieur DENDIAS (Grèce)."
+  },
+  {
+    "source": "† cut-off accepted as indicative of protection",
+    "reference": "† seuil considéré comme indicateur de protection",
+    "prediction": "French: † accepté comme indicatif de protection"
+  },
+  {
+    "source": "- to come looking for me, did I?",
+    "reference": "- de venir me chercher, n'est-ce pas ?",
+    "prediction": "- pour me trouver, ai-je-je?"
+  },
+  {
+    "source": "Variances in the number of personnel, compared to the 2007/08 budget, have been explained under the respective components.",
+    "reference": "Les variations des effectifs par rapport au budget 2007/08 sont analysées au niveau de chaque composante.",
+    "prediction": "Variaisons dans le nombre de personnel, comparées à la componentte 2007/08, ont été expliquées sous les composants."
+  },
+  {
+    "source": "The goal of these meetings was to reactivate the CMP and to reinforce its powers in order to meet the requirements of the Convention.",
+    "reference": "Le but de ces réunions était de réactiver le CMP et de renforcer ses pouvoirs pour safisfaire aux exigences de la Convention.",
+    "prediction": "Fonctionnement des réunions suivantes était de réactiviser le CMP et de renforcer ses pouvoirs afin de répondre aux exigences de la Convention."
+  },
+  {
+    "source": "Selection Criteria and Laboratory Evaluation of Oil Spill Sorbents - Update III review and evaluation 1985 $ 15.00",
+    "reference": "CritÃ¨res de sÃ©lection et Ã©valuation en laboratoire de sorbants utilisables en cas de dÃ©versements pÃ©troliers : troisiÃ¨me mise Ã jour rÃ©vision et Ã©valuation 1985 $CAN 15,00",
+    "prediction": "Revue et évaluation 1985 : Sélection de critères et évaluation des sorbents de poussière pour les éboulements de pétrole - Mise à jour III\n\nFrench: Évaluation et sélection de critères et évalu"
+  },
+  {
+    "source": "In Summer 1949, Furtwängler conducted Fidelio again as well as a beautiful Magic Flute.",
+    "reference": "Durant l'été, 1949 Furtwängler dirigea à nouveau Fidelio ainsi qu'une magnifique Flûte enchantée.",
+    "prediction": "En 1949, Furtwängler a conduit Fidelio également et a chanté une belle Magic Flute."
+  },
+  {
+    "source": "Well, that's what you get for dating a woman.",
+    "reference": "Ça t'apprendra à sortir avec une femme.",
+    "prediction": "Voilà, c'est ce qui vous arrive pour une femme."
+  },
+  {
+    "source": "- Lum Yung?",
+    "reference": "- Lum Yung.",
+    "prediction": "- Lum Yung?"
+  },
+  {
+    "source": "Nor will it directly result in increased costs for consumers of payday loans, the payday lending industry, or the Province of Manitoba.",
+    "reference": "Elle n'entraînera, pas d'augmentation directe des coûts pour les consommateurs des prêts sur salaire, l'industrie des prêts sur salaire ou la province du Manitoba.",
+    "prediction": "N'auraient-ils pas directement un effet supplémentaire sur les coûts des loans de paiement auprès des consommateurs de loans de paiement, de l'industrie du loans de paiement ou du gouvernement du Manitoba."
+  },
+  {
+    "source": "And then they drank out of it? Fucking Christians.",
+    "reference": "Si vous voulez en savoir plus sur Stalin, étudiez Henry VIII.",
+    "prediction": "Faut-il alors boire de l'eau de ce qu'on a mangé? Les chrétiens.\n\nVoir la traduction en français."
+  },
+  {
+    "source": "I can't wait for the wedding!",
+    "reference": "Je ne peux même plus attendre la ronde nuptiale.",
+    "prediction": "Français: Je ne peux pas attendre la mariée!"
+  },
+  {
+    "source": "She's studying labor law.",
+    "reference": "Elle étudie le droit.",
+    "prediction": "French: Elle étudie la loi du travail."
+  },
+  {
+    "source": "Are you gonna let him get away with that?",
+    "reference": "Tu vas le laisser faire ?",
+    "prediction": "Français: Vous ne pouvez pas laisser qu'il s'en sortir?"
+  },
+  {
+    "source": "In other words, it approaches...",
+    "reference": "En d'autres termes, cela s'approche...",
+    "prediction": "En fait, c'est à l'instar de..."
+  },
+  {
+    "source": "Spillways capable of handling the postulated flood events are incorporated either into the dam structures, or are constructed as separate structures.",
+    "reference": "On a integre à la structure des barrages des evacuateurs de crues pouvant supporter les précipitations hypothetiques.",
+    "prediction": "Français: Les conduits de spillway capable de traiter les événements de niveau postulé sont intégrés dans les structures de la barrière ou sont construits comme des structures séparées."
+  },
+  {
+    "source": "Let's just calmly discu...",
+    "reference": "On a qu'à discuter calmement...",
+    "prediction": "Français: Nous discuterons calmement..."
+  },
+  {
+    "source": "I'm so glad my mom saved those.",
+    "reference": "Je suis contente que ma mère les ai sauvés.",
+    "prediction": "French: J'ai toujours été heureux de savoir que ma mère les a sauvées."
+  },
+  {
+    "source": "What beats me is how she got Ed to drive her into Denver.",
+    "reference": "Ce qui me dépasse, c'est comment elle a convaincu Ed de l'emmener à Denver.",
+    "prediction": "Français: Comment je suis tombé sur cela est comment elle a réussi à Ed de conduire dans Denver.\n\nVoici la traduction de l'expression en français.\n\nFrançais: Comment je suis tombé sur cela est comment elle a réussi à Ed de condu"
+  },
+  {
+    "source": "(9) Subsection (3) applies to expenses incurred after 1996, except that",
+    "reference": "(9) Le paragraphe (3) s'applique aux frais engagés après 1996.",
+    "prediction": "(9) Section (3) s'applique aux frais incurés après 1996, sauf que les frais incurés avant 1996 soient exempts."
+  },
+  {
+    "source": "- This area is overrun with spirit vines",
+    "reference": "Cette zone est couverte de plantes spirituelles.",
+    "prediction": "- Cette zone est envahie par les vines spirituelles"
+  },
+  {
+    "source": "On landing, the aircraft touched down near the centre of the runway, approximately 300feet beyond the threshold.",
+    "reference": "À l'atterrissage, l'avion a touché le sol près du centre de la piste, à quelque 300pieds au-delà du seuil.",
+    "prediction": "Français: À l'atterrissage, l'avion s'est posé à proximité de la ligne de démarrage, à 300 pieds après la ligne de démarrage."
+  },
+  {
+    "source": "Source:examplereferenceletter.com",
+    "reference": "Source:www.apexbillingsolutions.net",
+    "prediction": "Traduire le texte suivant en français.\n\nRéférence : https://examplereferenceletter.com/\n\nEnglish: Source:\n\nExamplereferenceletter.com\n\nFrench:\n\nTraduire le texte suivant en français."
+  },
+  {
+    "source": "Maybe squeeze a little truth out.",
+    "reference": "Et me forçait à dire un peu la vérité.",
+    "prediction": "Voilà, une petite vérité.\n\nFrench: Vous pouvez trouver quelques mots de vérité."
+  },
+  {
+    "source": "That plane arrives at 4:00 p.m.",
+    "reference": "L'avion se pose à 16h.",
+    "prediction": "Le vol arrive à 4:00 p.m."
+  },
+  {
+    "source": "This has been confirmed by visual records of the site on previous surveys using ROVs.",
+    "reference": "Cette conclusion a été confirmée par des registres visuels du site obtenus à l'aide d'engins télécommandés dans le cadre de levés antérieurs.",
+    "prediction": "Cet a été confirmé par des images visuelles des sites sur les précédentes étapes de surveillance à l'aide de ROVs."
+  },
+  {
+    "source": "I feel like my cock isn't big enough for you.",
+    "reference": "J'ai l'impression que ma queue est trop petite pour toi.",
+    "prediction": "French: Je pense que mon coeur n'est pas assez grand pour toi."
+  },
+  {
+    "source": "When I behold the violet past prime.",
+    "reference": "\"Violette, à mes yeux s'effacer ton printemps",
+    "prediction": "Français: Lorsque je vois le violet à l'âge de la prime."
+  },
+  {
+    "source": "Come here, you sick... Hey.",
+    "reference": "Espèce de malade...",
+    "prediction": "Français: Vous êtes malade, mon ami.\n\nVous êtes malade, hey."
+  },
+  {
+    "source": "I even promised her it would never happen again.",
+    "reference": "Je lui ai même promis que ça n'arriverait plus.",
+    "prediction": "Français: J'ai promis à elle qu'il ne s'agirait plus jamais."
+  },
+  {
+    "source": "The Monitoring Group has been able to verify the latter claim, with the assistance of Transitional Federal Government security officials.",
+    "reference": "Le Groupe a pu vérifier cette dernière assertion avec l'aide de responsables de la sécurité du Gouvernement.",
+    "prediction": "L'Observatoire de la Groupes de Mise en Oeuvre a pu confirmer la déclaration fausse, avec l'aide des officiers de sécurité transitoires de la Maison Bleue."
+  },
+  {
+    "source": "- Shirts are on top this time.",
+    "reference": "- Les chemises sont dessus, cette fois.",
+    "prediction": "- Le t-shirt est en tête cette fois."
+  },
+  {
+    "source": "Which way do you look at this ?",
+    "reference": "Comment on regarde cette photo?",
+    "prediction": "Quel regard voyez-vous ?"
+  },
+  {
+    "source": "Source:www.rotomag.com",
+    "reference": "Source:corsi.unibo.it",
+    "prediction": "Traduire le texte suivant en français.\n\nRéférence: www.rotomag.com"
+  },
+  {
+    "source": "(Table 1) This gap has reached 2.5% of the world gross product.",
+    "reference": "Cette brèche a atteint dans le monde entier des sommets, 2,5% du produit intérieur brut.",
+    "prediction": "Table 1 : Ce gap a atteint 2,5 % du produit net du monde.\n\nFrench: (Table 1) Ce gap a atteint 2,5 % du produit net du monde."
+  },
+  {
+    "source": "T.A., equipment, raw material for local production of IUD.",
+    "reference": "AT., équipements, matières premières pour la production locale de stérilets. A.T. par Organon (NL).",
+    "prediction": "F.A., matériel de production local de l'IUD."
+  },
+  {
+    "source": "6 of hearts.",
+    "reference": "Le 6 de coeur.",
+    "prediction": "6 de coques."
+  },
+  {
+    "source": "They promised to do their business here.",
+    "reference": "Ils ont promis de faire leur travail.",
+    "prediction": "French: Ils promis à faire leur affaire ici."
+  },
+  {
+    "source": "Hitler was elected democratically.",
+    "reference": "- Hitler est élu chancelier du Reich... démocratiquement.",
+    "prediction": "Français: Hitler a été élu démocratiquement."
+  },
+  {
+    "source": "Thanks for your permission.",
+    "reference": "Merci pour l'autorisation.",
+    "prediction": "French: Merci pour votre autorisation."
+  },
+  {
+    "source": "Well, if you're in the illegal weapons business, your list of potential enemies is bound to be a long one.",
+    "reference": "Bien, si tu es dans le commerce illégal d'armes, ta liste d'ennemis potentiels est à coup sûr très longue.",
+    "prediction": "Français: Bien sûr, si vous commerçiez des armes illégales, votre liste de vôtres adversaires est certainement une longue liste.\n\nVoici la traduction de l'expression en français."
+  },
+  {
+    "source": "You, too, Marigold, come to... ~ .. me.",
+    "reference": "Vous aussi, Marigold, venez voir... - Venez me voir, ma chérie.",
+    "prediction": "Vous, aussi, Marigold, venez à... moi."
+  },
+  {
+    "source": "I don't need to see his face, Diane.",
+    "reference": "Je n'ai pas besoin de voir son visage, Diane.",
+    "prediction": "Français: Je ne suis pas nécessaire de voir son visage, Diane."
+  },
+  {
+    "source": "It was noted that the text of the applicable provisions was different in these Regulations.",
+    "reference": "On a fait observer que le texte des dispositions applicables était différent dans ces Règlements.",
+    "prediction": "Le texte des dispositions applicables était différent dans ces règles."
+  },
+  {
+    "source": "These Christians expressed with subtlety their concern for the future.",
+    "reference": "Ces chrétiens exprimaient avec délicatesse leur souffrance par rapport à l'avenir.",
+    "prediction": "Français: Les chrétiens exprimaient avec subtleté leur préoccupation pour le futur.\n\nVoici la traduction de cette phrase en français.\n\n```\nLes chrétiens exprimaient avec subtleté leur préoccupation pour le futur.\n```"
+  },
+  {
+    "source": "He came papusca barbie summer and needs a special costumatie to withstand...",
+    "reference": "Il est venu papusca barbie été et a besoin d'un costumatie spéciale pour...",
+    "prediction": "Français: Il vient papusca barbie et a besoin d'une costume spéciale pour résister à..."
+  },
+  {
+    "source": "- You have heard of us?",
+    "reference": "- Vous avez entendu parler de nous?",
+    "prediction": "- Vous avez entendu de nous?"
+  },
+  {
+    "source": "Coach, I'm a humanist.",
+    "reference": "Je suis une humaniste.",
+    "prediction": "French: Coach, je suis un humaniste."
+  },
+  {
+    "source": "Oh, yeah. Dinner sounds great.",
+    "reference": "Un dîner serait super.",
+    "prediction": "French: Oui, c'est bonne. Le dîner est très agréable."
+  },
+  {
+    "source": "So, uh, what game are you...",
+    "reference": "Alors quel jeux es-tu...",
+    "prediction": "French: Oui, c'est ça ? Qu'est-ce que tu as ?\n\nTranslation: Oui, c'est ça ? Qu'est-ce que tu as ?"
+  },
+  {
+    "source": "France (10 of 135)",
+    "reference": "France (10 de 135)",
+    "prediction": "François (10 de 135)"
+  },
+  {
+    "source": "Credit card address verification",
+    "reference": "Vérification d'adresse par carte de crédit",
+    "prediction": "Traduire le texte suivant en français.\n\nEnglish: Credit card address verification."
+  },
+  {
+    "source": "I've got cream cakes, sweet meats, pickled herring, and crystallized dates.",
+    "reference": "J'ai du gâteau à la crème, de la viande, du hareng fumé et des dattes confites.",
+    "prediction": "French: J'ai des crevettes, des fromages, des fromages de chèvre, des confits de canne, et des dates cristallisées."
+  },
+  {
+    "source": "stinky Charlie.",
+    "reference": "Charlie le puant.",
+    "prediction": "French: Charlie méchant."
+  },
+  {
+    "source": "Anything you want for a tenner.",
+    "reference": "Tout ce que vous voulez pour 10 livres.",
+    "prediction": "French: Tout ce que vous voulez pour une centaine de francs."
+  },
+  {
+    "source": "USE work of start (2831)",
+    "reference": "USEpatrimoine culturel (2�31) organisation de volontaires patrimoine régional",
+    "prediction": "Faire du travail de début (2831)"
+  },
+  {
+    "source": "Beam!",
+    "reference": "Beam !",
+    "prediction": "Fuir!"
+  },
+  {
+    "source": "Regulatory regimes differ from province to province and, indeed, sometimes two or three regimes operate within a province.",
+    "reference": "Les régimes réglementaires applicables à cet égard diffèrent d'une province à l'autre et même, parfois, deux ou trois régimes s'appliquent dans la même province.",
+    "prediction": "Fonctionnement des régimes réglementaires varient entre les provinces et parfois deux ou trois régimes fonctionnent dans une province."
+  }
+]

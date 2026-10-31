@@ -1,0 +1,9 @@
+{
+  "bleu": 0.8719218593203354,
+  "chrf": 12.002409153238345,
+  "inference_seconds": 34.47589840006549,
+  "seconds_per_sentence": 0.3447589840006549,
+  "parameters": 300176768,
+  "train_seconds": 530.4782048999332,
+  "adaptation": "full fine-tuning with Adafactor"
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "temperature": 0.3,
+    "source": "- You were at a bus stop kissing him!",
+    "reference": "- Vous étiez en train de vous embrasser à l'arrêt de bus!",
+    "prediction": "- Vous êtes allé à un banc de bus se révélant à lui!"
+  },
+  {
+    "temperature": 0.3,
+    "source": "With irony and mischief the young Czech artist Krištof Kintera turns art and life on their heads.",
+    "reference": "Avec une ironie farceuse, le jeune artiste tchèque Krištof Kintera chamboule l’art et la vie.",
+    "prediction": "En français : Avec ironie et mélancolie, l'artiste tchèque Krištof Kintera met en scène la vie et l'art sur ses propres termes.\n\nVoici la traduction.\n\nEnglish: With irony and mischief"
+  },
+  {
+    "temperature": 0.3,
+    "source": "- Who's going to talk to the used car salesman?",
+    "reference": "Qui va parler au vendeur de voitures ? Big Freddy.",
+    "prediction": "- Qui parlera au vendeur de véhicules secondaires?\n\nFrench: - Qui parlera au vendeur de véhicules secondaires?\n\nTranslation: - Qui parlera au vendeur de véhicules secondaires?"
+  },
+  {
+    "temperature": 0.3,
+    "source": "People think you are a great man, that your music speaks of humanity, warmth and understanding.",
+    "reference": "On vous dit éclairé : votre musique parle d'humanité, de chaleur et de compréhension.",
+    "prediction": "Les gens pensent que vous êtes un homme exceptionnel, que votre musique évoque l'humanité, la chaleur et l'intimité.\n\nFrançais: Personne ne croit à votre talent, que votre musique évoque la humanité, la chaleur et"
+  },
+  {
+    "temperature": 0.3,
+    "source": "Lace corals",
+    "reference": "Autres coraux",
+    "prediction": "Épiques coraux de lace\n\nLes épiques coraux de lace sont des coraux de lace de forme elliptique ou de forme ovalisée, qui se développent sur les plages de lace de la mer. Ils sont de taille moyenne à grande, et leur"
+  },
+  {
+    "temperature": 0.3,
+    "source": "YEAH, THERE'S ONE MAN I KNOW WHO COULD NAIL HIM.",
+    "reference": "Dites, je me demandais...",
+    "prediction": "Oui, il y a un homme qui peut le faire.\n\nFrançais: Oui, il y a un homme qui pourrait le faire."
+  },
+  {
+    "temperature": 0.3,
+    "source": "Peter and I were in a car crash.",
+    "reference": "Peter et moi étions dans un accident de voiture...",
+    "prediction": "Pierre et moi sommes tombés dans un accident de voiture.\n\nFrench: Peter et moi sommes tombés dans un accident de voiture."
+  },
+  {
+    "temperature": 0.3,
+    "source": "These laws establish a parliamentary republic and provide for the separation of powers.",
+    "reference": "Ces lois mettent en place une république parlementaire et prévoient la séparation des pouvoirs.",
+    "prediction": "Les lois établissent un État parlementaire et établissent les pouvoirs séparés.\n\nFrançais:\nLes lois établissent un État parlementaire et prévoient la séparation des pouvoirs."
+  },
+  {
+    "temperature": 0.3,
+    "source": "Monitoring, research and evaluation activities for the country programme will be coordinated through the integrated monitoring and evaluation plan (IMEP).",
+    "reference": "Les activités de suivi, de recherche et d'évaluation entreprises au titre du programme de pays seront coordonnées à l'aide du plan intégré de suivi et d'évaluation.",
+    "prediction": "Mise en œuvre de l'activité de surveillance, de recherche et d'évaluation pour le programme de l'établissement national est organisée par le plan d'évaluation intégré (IMEP).\n\nFrançais: Activités de surveillance, de"
+  },
+  {
+    "temperature": 0.3,
+    "source": "A meaningful review mechanism and constructive dialogue on technical assistance would play a key role in the operationalization of the Convention.",
+    "reference": "Un mécanisme de révision judicieux et un dialogue constructif sur l'assistance technique joueront un rôle déterminant pour rendre la convention opérationnelle.",
+    "prediction": "Mise en œuvre de la Convention : une mécanisme significatif de révision et de dialogue constructif sur l'assistance technique seraient à la base de la mise en œuvre de la Convention.\n\nFrançais: Un mécanisme significatif de révision et de dialogue construct"
+  },
+  {
+    "temperature": 0.7,
+    "source": "- You were at a bus stop kissing him!",
+    "reference": "- Vous étiez en train de vous embrasser à l'arrêt de bus!",
+    "prediction": "- Vous étiez à une station de bus se lisant ensemble!"
+  },
+  {
+    "temperature": 0.7,
+    "source": "With irony and mischief the young Czech artist Krištof Kintera turns art and life on their heads.",
+    "reference": "Avec une ironie farceuse, le jeune artiste tchèque Krištof Kintera chamboule l’art et la vie.",
+    "prediction": "Paroles en français. Rien de traduction.\nAnglais : Avec ironie et mélancolie, le jeune artiste tchèque Krištof Kintera met en scène la vie et l'art sur des piles."
+  },
+  {
+    "temperature": 0.7,
+    "source": "- Who's going to talk to the used car salesman?",
+    "reference": "Qui va parler au vendeur de voitures ? Big Freddy.",
+    "prediction": "- Qui va parler au vendeur de véhicules secondaires?"
+  },
+  {
+    "temperature": 0.7,
+    "source": "People think you are a great man, that your music speaks of humanity, warmth and understanding.",
+    "reference": "On vous dit éclairé : votre musique parle d'humanité, de chaleur et de compréhension.",
+    "prediction": "People pensent que vous êtes un homme merveilleux, que votre musique éclaire l'humanité, la paix et l'intimité.\n\nFrançais: Les gens pensent que vous êtes un homme exceptionnel, qui éclaire l'humanité, le"
+  },
+  {
+    "temperature": 0.7,
+    "source": "Lace corals",
+    "reference": "Autres coraux",
+    "prediction": "Corallette de lace\n\nLe corallette de lace est une corolle de coraux de forme cylindrique, de couleur blanche ou blanche avec des rayures jaunes, qui se forme en corolle d'une seule feuille. Il est originaire des Car"
+  },
+  {
+    "temperature": 0.7,
+    "source": "YEAH, THERE'S ONE MAN I KNOW WHO COULD NAIL HIM.",
+    "reference": "Dites, je me demandais...",
+    "prediction": "VOIX: Oui, il y a un homme que j'ai connue qui pourrait le détoner.\n\nFRAISSE: Je t'en doute.\n\nVOIX: Oui, c'est vrai. Je suis allé à la cité de la"
+  },
+  {
+    "temperature": 0.7,
+    "source": "Peter and I were in a car crash.",
+    "reference": "Peter et moi étions dans un accident de voiture...",
+    "prediction": "Nous avions un accident automobile.\n\nFrench: Peter et moi sommes tombés dans un accident."
+  },
+  {
+    "temperature": 0.7,
+    "source": "These laws establish a parliamentary republic and provide for the separation of powers.",
+    "reference": "Ces lois mettent en place une république parlementaire et prévoient la séparation des pouvoirs.",
+    "prediction": "Législative : un gouvernement parlementaire et établit le partage des pouvoirs.\n\nFrench: Ces lois établissent un gouvernement parlementaire et garantissent la séparation des pouvoirs."
+  },
+  {
+    "temperature": 0.7,
+    "source": "Monitoring, research and evaluation activities for the country programme will be coordinated through the integrated monitoring and evaluation plan (IMEP).",
+    "reference": "Les activités de suivi, de recherche et d'évaluation entreprises au titre du programme de pays seront coordonnées à l'aide du plan intégré de suivi et d'évaluation.",
+    "prediction": "Répertoire d'évaluation, de surveillance et d'analyse des activités nationales seront organisé à travers le plan d'évaluation intégré (IMEP).\n\nFrançais: Les activités de surveillance, de recherche et d'évalu"
+  },
+  {
+    "temperature": 0.7,
+    "source": "A meaningful review mechanism and constructive dialogue on technical assistance would play a key role in the operationalization of the Convention.",
+    "reference": "Un mécanisme de révision judicieux et un dialogue constructif sur l'assistance technique joueront un rôle déterminant pour rendre la convention opérationnelle.",
+    "prediction": "Pas de traduction ni de traductions.\n\nMot le 10 décembre 2021, le secrétaire général de l'ONU, António Guterres, a publié un communiqué sur le récit de l'élection présidentielle en Tunisie."
+  },
+  {
+    "temperature": 1.2,
+    "source": "- You were at a bus stop kissing him!",
+    "reference": "- Vous étiez en train de vous embrasser à l'arrêt de bus!",
+    "prediction": "- Vous étiez à une station de bus se blesser!"
+  },
+  {
+    "temperature": 1.2,
+    "source": "With irony and mischief the young Czech artist Krištof Kintera turns art and life on their heads.",
+    "reference": "Avec une ironie farceuse, le jeune artiste tchèque Krištof Kintera chamboule l’art et la vie.",
+    "prediction": "Paroles en français. Renseignements seulement pour la traduction.\nAnglais : Entrées par acrobatisme et humour, le jeune artiste tchécoslovaque Krištof Kintera dévoile des arts et des têtes en défiant le monde"
+  },
+  {
+    "temperature": 1.2,
+    "source": "- Who's going to talk to the used car salesman?",
+    "reference": "Qui va parler au vendeur de voitures ? Big Freddy.",
+    "prediction": "Toute la traduction est disponible en français.\n\nIngénieur en informatique, on disait qu'on allait les parler aux gros véhicules de vente.\nC'était en réalité un homme âgé de plus en plus riche et plus en sortant"
+  },
+  {
+    "temperature": 1.2,
+    "source": "People think you are a great man, that your music speaks of humanity, warmth and understanding.",
+    "reference": "On vous dit éclairé : votre musique parle d'humanité, de chaleur et de compréhension.",
+    "prediction": "Les s'attardent sur vous, les s'attirez votre musique, parlant de humanité, du cœur et du sens du compris.\nFolks tend to think of you as a great man, speaking of your music to humanity, warmth, and understanding.\nC"
+  },
+  {
+    "temperature": 1.2,
+    "source": "Lace corals",
+    "reference": "Autres coraux",
+    "prediction": "Lacaques en écorces \n\nDe couleur brillant, une merveilleusement tranchante coquille.\nFleurishants et profonds, cette oiseuse est la belle.\nChemins étoilés et mystérieux, sur ces épars"
+  },
+  {
+    "temperature": 1.2,
+    "source": "YEAH, THERE'S ONE MAN I KNOW WHO COULD NAIL HIM.",
+    "reference": "Dites, je me demandais...",
+    "prediction": "EH, J'EN AIME A LA TELASTE QU'IL FEURTAIT TON.\n\nFrançais: OUI, AILLEUR DE PARCORNER S'IL PAUT SES DROITS À ORIFICER."
+  },
+  {
+    "temperature": 1.2,
+    "source": "Peter and I were in a car crash.",
+    "reference": "Peter et moi étions dans un accident de voiture...",
+    "prediction": "Pierre et moi ont eu un accident en voiture.\n\nFrench: Peter et moi s'avèrent en collision.\n\nNous avons essayé de revoir à nouveau l'occasion à propos du présent.\n\nAvec un sens d'espoir et de constance"
+  },
+  {
+    "temperature": 1.2,
+    "source": "These laws establish a parliamentary republic and provide for the separation of powers.",
+    "reference": "Ces lois mettent en place une république parlementaire et prévoient la séparation des pouvoirs.",
+    "prediction": "Bienvenue dans notre république parlementaire et définisse les forces de séparation.\n\nEnglish: These laws establish a parliamentary republic and provide for the separation of powers.\n\nEn Français: Bienvenue dans notre République parlementaire et établisse la différence de droits."
+  },
+  {
+    "temperature": 1.2,
+    "source": "Monitoring, research and evaluation activities for the country programme will be coordinated through the integrated monitoring and evaluation plan (IMEP).",
+    "reference": "Les activités de suivi, de recherche et d'évaluation entreprises au titre du programme de pays seront coordonnées à l'aide du plan intégré de suivi et d'évaluation.",
+    "prediction": "Réessayez en français. Remettez uniquement le traduction.\nEn anglais: Les activités de monitoring, de recherche et d'évaluation pour le programme de la rive gauche seront coordonnées par le plan d'évaluation et de mise en œuvre à travers le"
+  },
+  {
+    "temperature": 1.2,
+    "source": "A meaningful review mechanism and constructive dialogue on technical assistance would play a key role in the operationalization of the Convention.",
+    "reference": "Un mécanisme de révision judicieux et un dialogue constructif sur l'assistance technique joueront un rôle déterminant pour rendre la convention opérationnelle.",
+    "prediction": "Mise en œuvre de la Convention à travers des mécanismes sensibles et des conversations constructives autour de l'aide technique permettront de jouer un rôle essentiel dans la mise en œuvre technique.\n\nFrench: La mise en œuvre technique à travers les mé"
+  }
+]
