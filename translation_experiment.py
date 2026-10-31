@@ -78,7 +78,10 @@ class PairDataset(Dataset):
     def __len__(self): return len(self.rows)
     def __getitem__(self, i):
         row = self.rows[i]
-        return self.tok.encode(row["source"], max_length=MAX_SOURCE, truncation=True), self.tok.encode(row["reference"], max_length=MAX_TARGET-1, truncation=True)
+        source = self.tok.encode(row["source"], max_length=MAX_SOURCE, truncation=True)
+        target = self.tok.encode(row["reference"], max_length=MAX_TARGET-1, truncation=True)
+        if target and target[-1] == self.tok.eos_token_id: target = target[:-1]
+        return source, target
 
 
 class ScratchTransformer(nn.Module):
