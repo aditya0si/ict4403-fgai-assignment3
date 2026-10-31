@@ -1,0 +1,182 @@
+[
+  {
+    "temperature": 0.3,
+    "source": "- You were at a bus stop kissing him!",
+    "reference": "- Vous étiez en train de vous embrasser à l'arrêt de bus!",
+    "prediction": "You were at a bus stop kissing him!"
+  },
+  {
+    "temperature": 0.3,
+    "source": "With irony and mischief the young Czech artist Krištof Kintera turns art and life on their heads.",
+    "reference": "Avec une ironie farceuse, le jeune artiste tchèque Krištof Kintera chamboule l’art et la vie.",
+    "prediction": "Kintera turns art and life on their heads."
+  },
+  {
+    "temperature": 0.3,
+    "source": "- Who's going to talk to the used car salesman?",
+    "reference": "Qui va parler au vendeur de voitures ? Big Freddy.",
+    "prediction": "Who's going to talk to the used car salesman?"
+  },
+  {
+    "temperature": 0.3,
+    "source": "People think you are a great man, that your music speaks of humanity, warmth and understanding.",
+    "reference": "On vous dit éclairé : votre musique parle d'humanité, de chaleur et de compréhension.",
+    "prediction": "A great man is someone who speaks of humanity, warmth, and understanding."
+  },
+  {
+    "temperature": 0.3,
+    "source": "Lace corals",
+    "reference": "Autres coraux",
+    "prediction": "Lace corals"
+  },
+  {
+    "temperature": 0.3,
+    "source": "YEAH, THERE'S ONE MAN I KNOW WHO COULD NAIL HIM.",
+    "reference": "Dites, je me demandais...",
+    "prediction": "YEAH, THERE'S ONE MAN I KNOW WHO COULD NAIL HIM."
+  },
+  {
+    "temperature": 0.3,
+    "source": "Peter and I were in a car crash.",
+    "reference": "Peter et moi étions dans un accident de voiture...",
+    "prediction": "Peter and I were in a car crash."
+  },
+  {
+    "temperature": 0.3,
+    "source": "These laws establish a parliamentary republic and provide for the separation of powers.",
+    "reference": "Ces lois mettent en place une république parlementaire et prévoient la séparation des pouvoirs.",
+    "prediction": "The translation is:\nThese laws establish a parliamentary republic and provide for the separation of powers."
+  },
+  {
+    "temperature": 0.3,
+    "source": "Monitoring, research and evaluation activities for the country programme will be coordinated through the integrated monitoring and evaluation plan (IMEP).",
+    "reference": "Les activités de suivi, de recherche et d'évaluation entreprises au titre du programme de pays seront coordonnées à l'aide du plan intégré de suivi et d'évaluation.",
+    "prediction": "Monitoring, research and evaluation activities will be coordinated through the integrated monitoring and evaluation plan (IMEP)."
+  },
+  {
+    "temperature": 0.3,
+    "source": "A meaningful review mechanism and constructive dialogue on technical assistance would play a key role in the operationalization of the Convention.",
+    "reference": "Un mécanisme de révision judicieux et un dialogue constructif sur l'assistance technique joueront un rôle déterminant pour rendre la convention opérationnelle.",
+    "prediction": "A meaningful review mechanism and constructive dialogue on technical assistance would play a key role in the operationalization of the Convention."
+  },
+  {
+    "temperature": 0.7,
+    "source": "- You were at a bus stop kissing him!",
+    "reference": "- Vous étiez en train de vous embrasser à l'arrêt de bus!",
+    "prediction": "You were at a bus stop kissing him!"
+  },
+  {
+    "temperature": 0.7,
+    "source": "With irony and mischief the young Czech artist Krištof Kintera turns art and life on their heads.",
+    "reference": "Avec une ironie farceuse, le jeune artiste tchèque Krištof Kintera chamboule l’art et la vie.",
+    "prediction": "Kintera turns art and life on their heads."
+  },
+  {
+    "temperature": 0.7,
+    "source": "- Who's going to talk to the used car salesman?",
+    "reference": "Qui va parler au vendeur de voitures ? Big Freddy.",
+    "prediction": "Who's going to talk to the used car salesman?"
+  },
+  {
+    "temperature": 0.7,
+    "source": "People think you are a great man, that your music speaks of humanity, warmth and understanding.",
+    "reference": "On vous dit éclairé : votre musique parle d'humanité, de chaleur et de compréhension.",
+    "prediction": "French translation: Les gens pensent que vous êtes un homme excellent, que votre musique parle de l'humanité, de chaleur et d'empathie."
+  },
+  {
+    "temperature": 0.7,
+    "source": "Lace corals",
+    "reference": "Autres coraux",
+    "prediction": "Lace corals"
+  },
+  {
+    "temperature": 0.7,
+    "source": "YEAH, THERE'S ONE MAN I KNOW WHO COULD NAIL HIM.",
+    "reference": "Dites, je me demandais...",
+    "prediction": "YEAH, THERE'S ONE MAN I KNOW WHO COULD NAIL HIM."
+  },
+  {
+    "temperature": 0.7,
+    "source": "Peter and I were in a car crash.",
+    "reference": "Peter et moi étions dans un accident de voiture...",
+    "prediction": "Peter and I were in a car crash."
+  },
+  {
+    "temperature": 0.7,
+    "source": "These laws establish a parliamentary republic and provide for the separation of powers.",
+    "reference": "Ces lois mettent en place une république parlementaire et prévoient la séparation des pouvoirs.",
+    "prediction": "Laws establish a parliamentary republic and provide for the separation of powers."
+  },
+  {
+    "temperature": 0.7,
+    "source": "Monitoring, research and evaluation activities for the country programme will be coordinated through the integrated monitoring and evaluation plan (IMEP).",
+    "reference": "Les activités de suivi, de recherche et d'évaluation entreprises au titre du programme de pays seront coordonnées à l'aide du plan intégré de suivi et d'évaluation.",
+    "prediction": "Monitoring, research and evaluation activities for the country programme will be coordinated through the integrated monitoring and evaluation plan (IMEP)."
+  },
+  {
+    "temperature": 0.7,
+    "source": "A meaningful review mechanism and constructive dialogue on technical assistance would play a key role in the operationalization of the Convention.",
+    "reference": "Un mécanisme de révision judicieux et un dialogue constructif sur l'assistance technique joueront un rôle déterminant pour rendre la convention opérationnelle.",
+    "prediction": "A meaningful review mechanism and constructive dialogue on technical assistance would play a key role in the operationalization of the Convention."
+  },
+  {
+    "temperature": 1.2,
+    "source": "- You were at a bus stop kissing him!",
+    "reference": "- Vous étiez en train de vous embrasser à l'arrêt de bus!",
+    "prediction": "You were at a bus stop kissing him!"
+  },
+  {
+    "temperature": 1.2,
+    "source": "With irony and mischief the young Czech artist Krištof Kintera turns art and life on their heads.",
+    "reference": "Avec une ironie farceuse, le jeune artiste tchèque Krištof Kintera chamboule l’art et la vie.",
+    "prediction": "Kintera transforms art and life on their heads."
+  },
+  {
+    "temperature": 1.2,
+    "source": "- Who's going to talk to the used car salesman?",
+    "reference": "Qui va parler au vendeur de voitures ? Big Freddy.",
+    "prediction": "Who's going to talk to the used car salesman?"
+  },
+  {
+    "temperature": 1.2,
+    "source": "People think you are a great man, that your music speaks of humanity, warmth and understanding.",
+    "reference": "On vous dit éclairé : votre musique parle d'humanité, de chaleur et de compréhension.",
+    "prediction": "De gens pensent que vous êtes un homme excellent, qui a l'émotion, et qui entend les gens en paix et en compréhension."
+  },
+  {
+    "temperature": 1.2,
+    "source": "Lace corals",
+    "reference": "Autres coraux",
+    "prediction": "Lace corals"
+  },
+  {
+    "temperature": 1.2,
+    "source": "YEAH, THERE'S ONE MAN I KNOW WHO COULD NAIL HIM.",
+    "reference": "Dites, je me demandais...",
+    "prediction": "ONE"
+  },
+  {
+    "temperature": 1.2,
+    "source": "Peter and I were in a car crash.",
+    "reference": "Peter et moi étions dans un accident de voiture...",
+    "prediction": "Peter and I were in a car crash."
+  },
+  {
+    "temperature": 1.2,
+    "source": "These laws establish a parliamentary republic and provide for the separation of powers.",
+    "reference": "Ces lois mettent en place une république parlementaire et prévoient la séparation des pouvoirs.",
+    "prediction": "These laws establish a parliamentary republic and provide for the separation of powers."
+  },
+  {
+    "temperature": 1.2,
+    "source": "Monitoring, research and evaluation activities for the country programme will be coordinated through the integrated monitoring and evaluation plan (IMEP).",
+    "reference": "Les activités de suivi, de recherche et d'évaluation entreprises au titre du programme de pays seront coordonnées à l'aide du plan intégré de suivi et d'évaluation.",
+    "prediction": "Monitoring, research and evaluation activities will be coordinated through the integrated monitoring and evaluation plan (IMEP)."
+  },
+  {
+    "temperature": 1.2,
+    "source": "A meaningful review mechanism and constructive dialogue on technical assistance would play a key role in the operationalization of the Convention.",
+    "reference": "Un mécanisme de révision judicieux et un dialogue constructif sur l'assistance technique joueront un rôle déterminant pour rendre la convention opérationnelle.",
+    "prediction": "A meaningful review mechanism and constructive dialogue on technical assistance would play a key role in the operationalization of the Convention."
+  }
+]

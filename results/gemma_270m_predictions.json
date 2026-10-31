@@ -1,0 +1,502 @@
+[
+  {
+    "source": "- You were at a bus stop kissing him!",
+    "reference": "- Vous étiez en train de vous embrasser à l'arrêt de bus!",
+    "prediction": "You were at a bus stop kissing him!"
+  },
+  {
+    "source": "With irony and mischief the young Czech artist Krištof Kintera turns art and life on their heads.",
+    "reference": "Avec une ironie farceuse, le jeune artiste tchèque Krištof Kintera chamboule l’art et la vie.",
+    "prediction": "Kintera turns art and life on their heads."
+  },
+  {
+    "source": "- Who's going to talk to the used car salesman?",
+    "reference": "Qui va parler au vendeur de voitures ? Big Freddy.",
+    "prediction": "Qui va parler à un vendeur de voitures usées ?"
+  },
+  {
+    "source": "People think you are a great man, that your music speaks of humanity, warmth and understanding.",
+    "reference": "On vous dit éclairé : votre musique parle d'humanité, de chaleur et de compréhension.",
+    "prediction": "La personne pense que vous êtes un grand homme, qui parle de l'humanité, de la chaleur et de la compréhension."
+  },
+  {
+    "source": "Lace corals",
+    "reference": "Autres coraux",
+    "prediction": "Lace corals"
+  },
+  {
+    "source": "YEAH, THERE'S ONE MAN I KNOW WHO COULD NAIL HIM.",
+    "reference": "Dites, je me demandais...",
+    "prediction": "YEAH, THERE'S ONE MAN I KNOW WHO COULD NAIL HIM."
+  },
+  {
+    "source": "Peter and I were in a car crash.",
+    "reference": "Peter et moi étions dans un accident de voiture...",
+    "prediction": "Peter and I were in a car crash."
+  },
+  {
+    "source": "These laws establish a parliamentary republic and provide for the separation of powers.",
+    "reference": "Ces lois mettent en place une république parlementaire et prévoient la séparation des pouvoirs.",
+    "prediction": "Les lois établissent une république parlementaire et fournissent des pouvoirs séparés."
+  },
+  {
+    "source": "Monitoring, research and evaluation activities for the country programme will be coordinated through the integrated monitoring and evaluation plan (IMEP).",
+    "reference": "Les activités de suivi, de recherche et d'évaluation entreprises au titre du programme de pays seront coordonnées à l'aide du plan intégré de suivi et d'évaluation.",
+    "prediction": "Monitoring, research and evaluation activities will be coordinated through the integrated monitoring and evaluation plan (IMEP)."
+  },
+  {
+    "source": "A meaningful review mechanism and constructive dialogue on technical assistance would play a key role in the operationalization of the Convention.",
+    "reference": "Un mécanisme de révision judicieux et un dialogue constructif sur l'assistance technique joueront un rôle déterminant pour rendre la convention opérationnelle.",
+    "prediction": "A meaningful review mechanism and constructive dialogue on technical assistance would play a key role in the operationalization of the Convention."
+  },
+  {
+    "source": "You're the only customer in the restaurant.",
+    "reference": "Tu es le seul client dans le restaurant.",
+    "prediction": "You're the only customer in the restaurant."
+  },
+  {
+    "source": "Sydney, Esther will be in my office.",
+    "reference": "Esther sera dans mon bureau.",
+    "prediction": "Esther, vous allez être à mon bureau."
+  },
+  {
+    "source": "Thus international cooperation cannot be considered merely an act of solidarity.",
+    "reference": "La coopération internationale ne peut donc être considérée uniquement comme un acte de solidarité.",
+    "prediction": "Thus international cooperation cannot be considered merely an act of solidarity."
+  },
+  {
+    "source": "Okay, Mel. You're absolutely right.",
+    "reference": "OK Mel, tu as tout à fait raison.",
+    "prediction": "Okay, Mel."
+  },
+  {
+    "source": "- Charred body?",
+    "reference": "- Un corps ? Un incendie criminel ?",
+    "prediction": "Charred body"
+  },
+  {
+    "source": "Admission is based on satisfactory assessment of subjects taught in the school year directly preceding the gimnazija at I Pagrindiné mokykla.",
+    "reference": "L’admission est basée sur les résultats obtenus dans les matières enseignées dans un ➧ Pagrindinė mokykla pendant l’année scolaire précédant directement le gimnazija.",
+    "prediction": "Admission is based on satisfactory assessment of subjects taught in the school year directly preceding the gimnazija at I Pagrindiné mokykla."
+  },
+  {
+    "source": "JORGE ANTONIO, Asturias (22/4/2016)",
+    "reference": "JORGE ANTONIO, Asturias (22/4/2016)",
+    "prediction": "JORGE ANTONIO, Asturias (22/4/2016)"
+  },
+  {
+    "source": "It is dusk of Awajicho of Tokyo.",
+    "reference": "C'est crépuscule d'Awajicho de Tokyo.",
+    "prediction": "It is dusk of Awajicho of Tokyo."
+  },
+  {
+    "source": "All hot objects emit electromagnetic waves--for example, visible light is emitted by the hot filament inside a lightbulb.",
+    "reference": "Tous les objets chauds émettent des ondes électromagnétiques--comme, par exemple, la lumière visible qui est émise par le filament chaud à l'intérieur d'une ampoule électrique.",
+    "prediction": "All hot objects emit electromagnetic waves--for example, visible light is emitted by the hot filament inside a lightbulb."
+  },
+  {
+    "source": "There are no cameras in there.",
+    "reference": "- Y a aucune caméra là-dedans.",
+    "prediction": "There are no cameras in there."
+  },
+  {
+    "source": "COMMITTEE FOR TRADE, INDUSTRY AND",
+    "reference": "COMMISSION ÉCONOMIQUE POUR L'EUROPE",
+    "prediction": "COMMITÉS POUR LES TRAITS DE L'INDUSTRIE, DE L'ENVIRONATION ET DE L'Économie"
+  },
+  {
+    "source": "It's just right under there.",
+    "reference": "C'est juste ici, en dessous.",
+    "prediction": "It's just right under there."
+  },
+  {
+    "source": "The Government of Canada believes a healthy physical environment is important for children.",
+    "reference": "Le Gouvernement du Canada croit qu'il est important pour les enfants de vivre dans un environnement physique sain.",
+    "prediction": "The French translation of the English sentence is:\nThe Government of Canada believes a healthy physical environment is important for children."
+  },
+  {
+    "source": "How about a house call?\"",
+    "reference": "que penses-tu d'une visite a domicile ?\"",
+    "prediction": "How about a house call?"
+  },
+  {
+    "source": "I felt like I was in heaven as I watched the celebration.",
+    "reference": "Je me sentais comme étant au ciel tandis que je regardais la célébration.",
+    "prediction": "Je me sentais comme si je était dans le paradis, en regardant la célébration."
+  },
+  {
+    "source": "The ixodides should simply disengage once they're gorged with blood.",
+    "reference": "Elles vont simplement se détacher une fois gorgées de sang.",
+    "prediction": "The ixodides should simply disengage once they're gorged with blood."
+  },
+  {
+    "source": "Hurry up, dear!",
+    "reference": "Depeche-toi, cheri!",
+    "prediction": "Hurry up!"
+  },
+  {
+    "source": "This document aims to provide enough information to configure your X terminals and application servers to connect to each other.",
+    "reference": "Ce document tente d'apporter assez d'informations pour configurer vos terminaux X et vos applications serveur pour les connecter entre eux.",
+    "prediction": "This document aims to provide enough information to configure your X terminals and application servers to connect to each other."
+  },
+  {
+    "source": "- She is really superb.",
+    "reference": "- Elle est vraiment superbe.",
+    "prediction": "Superb"
+  },
+  {
+    "source": "[3] An application under section 172 of the Canada Transportation Act (the CTA) must be filed by a person with a disability or on behalf of a person with a disability.",
+    "reference": "[3] Aux termes de l'article 172 de la Loi sur les transports au Canada (la LTC), une demande doit être déposée par une personne ayant une déficience ou en son nom.",
+    "prediction": "An application under section 172 of the Canada Transportation Act (the CTA) must be filed by a person with a disability or on behalf of a person with a disability."
+  },
+  {
+    "source": "That's how you do it, boy.",
+    "reference": "C'est la classe, fiston.",
+    "prediction": "That's how you do it, boy."
+  },
+  {
+    "source": "But the government and political parties aim to change that.",
+    "reference": "Les stratégies s'affinent pour développer des arguments convaincants.",
+    "prediction": "But the government and political parties aim to change that."
+  },
+  {
+    "source": "See these hands?",
+    "reference": "Vous voyez ces mains ?",
+    "prediction": "See these hands?"
+  },
+  {
+    "source": "Announcement of decisions taken in Coordinators' meeting Reform of Community trade defence instruments.",
+    "reference": "Communication des décisions adoptées lors de la réunion des coordinateurs Réforme des instruments communautaires de défense commerciale.",
+    "prediction": "Announcement of decisions taken in Coordinators' meeting Reform of Community trade defence instruments."
+  },
+  {
+    "source": "Well, I'm having a Corvette, so deal with that!",
+    "reference": "Hé bien j'ai une Corvette, tu ferais mieux de t'y faire !",
+    "prediction": "Well, I'm having a Corvette, so deal with that!"
+  },
+  {
+    "source": "Latest visit 26 September 2007 04:17",
+    "reference": "Dernière visite 26 septembre 2007 04:17",
+    "prediction": "Latest visit 26 September 2007 04:17"
+  },
+  {
+    "source": "And only silence and this waltz",
+    "reference": "Subsisteront",
+    "prediction": "And silence and this waltz"
+  },
+  {
+    "source": "Thanks, Hanky.",
+    "reference": "Merci, Hanky.",
+    "prediction": "Thanks, Hanky."
+  },
+  {
+    "source": "- Sam, let's talk.",
+    "reference": "- Sam, il faut qu'on parle.",
+    "prediction": "Sam, dites-moi."
+  },
+  {
+    "source": "Embassy of the Islamic Republic of Afghanistan to Canada Omar Samad, Ambassador of the Islamic Republic of Afghanistan to Canada",
+    "reference": "Ambassade de la République islamique de l'Afghanistan Omar Samad, ambassadeur de la république islamique de l'afghanistan au canada",
+    "prediction": "Embassy of the Islamic Republic of Afghanistan to Canada Omar Samad"
+  },
+  {
+    "source": "With regard to General Service posts, the proposals reflect a significant reduction of posts in this category.",
+    "reference": "Répartition par classe des postes d'administrateur et de fonctionnaire de rang supérieur, pour l'exercice biennal 2006-2007 et les quatre précédents",
+    "prediction": "Avec regard sur les demandes de service généraux, les propositions reflètent une réduction significative de posts dans ce domaine."
+  },
+  {
+    "source": "Overnight Social security funds",
+    "reference": "Administrations de sécurité sociale Administrations de sécurité sociale",
+    "prediction": "L'argent social de nuit"
+  },
+  {
+    "source": "Mr DENDIAS (Greece).",
+    "reference": "LE PRÉSIDENT.",
+    "prediction": "Mr DENDIAS"
+  },
+  {
+    "source": "† cut-off accepted as indicative of protection",
+    "reference": "† seuil considéré comme indicateur de protection",
+    "prediction": "† cut-off accepted as indicative of protection"
+  },
+  {
+    "source": "- to come looking for me, did I?",
+    "reference": "- de venir me chercher, n'est-ce pas ?",
+    "prediction": "- pour venir chercher moi, avez-vous ?"
+  },
+  {
+    "source": "Variances in the number of personnel, compared to the 2007/08 budget, have been explained under the respective components.",
+    "reference": "Les variations des effectifs par rapport au budget 2007/08 sont analysées au niveau de chaque composante.",
+    "prediction": "Variances dans la quantité de personnel, comparée à la budget 2007/08, ont été explicées sous les différents composants."
+  },
+  {
+    "source": "The goal of these meetings was to reactivate the CMP and to reinforce its powers in order to meet the requirements of the Convention.",
+    "reference": "Le but de ces réunions était de réactiver le CMP et de renforcer ses pouvoirs pour safisfaire aux exigences de la Convention.",
+    "prediction": "The goal of these meetings was to reactivate the CMP and to reinforce its powers in order to meet the requirements of the Convention."
+  },
+  {
+    "source": "Selection Criteria and Laboratory Evaluation of Oil Spill Sorbents - Update III review and evaluation 1985 $ 15.00",
+    "reference": "CritÃ¨res de sÃ©lection et Ã©valuation en laboratoire de sorbants utilisables en cas de dÃ©versements pÃ©troliers : troisiÃ¨me mise Ã jour rÃ©vision et Ã©valuation 1985 $CAN 15,00",
+    "prediction": "Selection Criteria and Laboratory Evaluation of Oil Spill Sorbents - Update III review and evaluation 1985 $ 15.00"
+  },
+  {
+    "source": "In Summer 1949, Furtwängler conducted Fidelio again as well as a beautiful Magic Flute.",
+    "reference": "Durant l'été, 1949 Furtwängler dirigea à nouveau Fidelio ainsi qu'une magnifique Flûte enchantée.",
+    "prediction": "In Summer 1949, Furtwängler conducted Fidelio again as well as a beautiful Magic Flute."
+  },
+  {
+    "source": "Well, that's what you get for dating a woman.",
+    "reference": "Ça t'apprendra à sortir avec une femme.",
+    "prediction": "Well, that's what you get for dating a woman."
+  },
+  {
+    "source": "- Lum Yung?",
+    "reference": "- Lum Yung.",
+    "prediction": "Lumi"
+  },
+  {
+    "source": "Nor will it directly result in increased costs for consumers of payday loans, the payday lending industry, or the Province of Manitoba.",
+    "reference": "Elle n'entraînera, pas d'augmentation directe des coûts pour les consommateurs des prêts sur salaire, l'industrie des prêts sur salaire ou la province du Manitoba.",
+    "prediction": "Nor will it directly result in increased costs for consumers of payday loans, the payday lending industry, or the Province of Manitoba."
+  },
+  {
+    "source": "And then they drank out of it? Fucking Christians.",
+    "reference": "Si vous voulez en savoir plus sur Stalin, étudiez Henry VIII.",
+    "prediction": "And then they drank out of it?"
+  },
+  {
+    "source": "I can't wait for the wedding!",
+    "reference": "Je ne peux même plus attendre la ronde nuptiale.",
+    "prediction": "I can't wait for the wedding!"
+  },
+  {
+    "source": "She's studying labor law.",
+    "reference": "Elle étudie le droit.",
+    "prediction": "She's studying labor law."
+  },
+  {
+    "source": "Are you gonna let him get away with that?",
+    "reference": "Tu vas le laisser faire ?",
+    "prediction": "Le don devrait pas te laisser tranquille."
+  },
+  {
+    "source": "In other words, it approaches...",
+    "reference": "En d'autres termes, cela s'approche...",
+    "prediction": "In other words, it approaches..."
+  },
+  {
+    "source": "Spillways capable of handling the postulated flood events are incorporated either into the dam structures, or are constructed as separate structures.",
+    "reference": "On a integre à la structure des barrages des evacuateurs de crues pouvant supporter les précipitations hypothetiques.",
+    "prediction": "Spillways capable of handling the postulated flood events are incorporated either into the dam structures, or are constructed as separate structures."
+  },
+  {
+    "source": "Let's just calmly discu...",
+    "reference": "On a qu'à discuter calmement...",
+    "prediction": "Let's just calmly discuss..."
+  },
+  {
+    "source": "I'm so glad my mom saved those.",
+    "reference": "Je suis contente que ma mère les ai sauvés.",
+    "prediction": "Je suis tellement heureux que ma mère ait sauvé ces choses."
+  },
+  {
+    "source": "What beats me is how she got Ed to drive her into Denver.",
+    "reference": "Ce qui me dépasse, c'est comment elle a convaincu Ed de l'emmener à Denver.",
+    "prediction": "\"What beats me is how she got Ed to drive her into Denver.\""
+  },
+  {
+    "source": "(9) Subsection (3) applies to expenses incurred after 1996, except that",
+    "reference": "(9) Le paragraphe (3) s'applique aux frais engagés après 1996.",
+    "prediction": "The translation is: (9) Subsection (3) applies to expenses incurred after 1996, except that."
+  },
+  {
+    "source": "- This area is overrun with spirit vines",
+    "reference": "Cette zone est couverte de plantes spirituelles.",
+    "prediction": "The translation is: **- Cette zone est saturée de plantes spirituelles.**"
+  },
+  {
+    "source": "On landing, the aircraft touched down near the centre of the runway, approximately 300feet beyond the threshold.",
+    "reference": "À l'atterrissage, l'avion a touché le sol près du centre de la piste, à quelque 300pieds au-delà du seuil.",
+    "prediction": "On landing, the aircraft touched down near the centre of the runway, approximately 300 feet beyond the threshold."
+  },
+  {
+    "source": "Source:examplereferenceletter.com",
+    "reference": "Source:www.apexbillingsolutions.net",
+    "prediction": "examplereferenceletter.com"
+  },
+  {
+    "source": "Maybe squeeze a little truth out.",
+    "reference": "Et me forçait à dire un peu la vérité.",
+    "prediction": "Maybe squeeze a little truth out."
+  },
+  {
+    "source": "That plane arrives at 4:00 p.m.",
+    "reference": "L'avion se pose à 16h.",
+    "prediction": "That plane arrives at 4:00 p.m."
+  },
+  {
+    "source": "This has been confirmed by visual records of the site on previous surveys using ROVs.",
+    "reference": "Cette conclusion a été confirmée par des registres visuels du site obtenus à l'aide d'engins télécommandés dans le cadre de levés antérieurs.",
+    "prediction": "This has been confirmed by visual records of the site on previous surveys using ROVs."
+  },
+  {
+    "source": "I feel like my cock isn't big enough for you.",
+    "reference": "J'ai l'impression que ma queue est trop petite pour toi.",
+    "prediction": "Je me sens comme si mon ballon était trop petit pour toi."
+  },
+  {
+    "source": "When I behold the violet past prime.",
+    "reference": "\"Violette, à mes yeux s'effacer ton printemps",
+    "prediction": "Le violet passé prime."
+  },
+  {
+    "source": "Come here, you sick... Hey.",
+    "reference": "Espèce de malade...",
+    "prediction": "Come here, you sick..."
+  },
+  {
+    "source": "I even promised her it would never happen again.",
+    "reference": "Je lui ai même promis que ça n'arriverait plus.",
+    "prediction": "Je lui avais promise qu'elle ne serait jamais la même."
+  },
+  {
+    "source": "The Monitoring Group has been able to verify the latter claim, with the assistance of Transitional Federal Government security officials.",
+    "reference": "Le Groupe a pu vérifier cette dernière assertion avec l'aide de responsables de la sécurité du Gouvernement.",
+    "prediction": "La Surveillance Group a puilli vérifier la dernière affirmation, grâce à des agents de sécurité transfrontaliens."
+  },
+  {
+    "source": "- Shirts are on top this time.",
+    "reference": "- Les chemises sont dessus, cette fois.",
+    "prediction": "Shirts are on top this time."
+  },
+  {
+    "source": "Which way do you look at this ?",
+    "reference": "Comment on regarde cette photo?",
+    "prediction": "Which way do you look at this?"
+  },
+  {
+    "source": "Source:www.rotomag.com",
+    "reference": "Source:corsi.unibo.it",
+    "prediction": "www.rotomag.com"
+  },
+  {
+    "source": "(Table 1) This gap has reached 2.5% of the world gross product.",
+    "reference": "Cette brèche a atteint dans le monde entier des sommets, 2,5% du produit intérieur brut.",
+    "prediction": "Table 1 This gap has reached 2.5% of the world gross product."
+  },
+  {
+    "source": "T.A., equipment, raw material for local production of IUD.",
+    "reference": "AT., équipements, matières premières pour la production locale de stérilets. A.T. par Organon (NL).",
+    "prediction": "T.A."
+  },
+  {
+    "source": "6 of hearts.",
+    "reference": "Le 6 de coeur.",
+    "prediction": "6"
+  },
+  {
+    "source": "They promised to do their business here.",
+    "reference": "Ils ont promis de faire leur travail.",
+    "prediction": "They promised to do their business here."
+  },
+  {
+    "source": "Hitler was elected democratically.",
+    "reference": "- Hitler est élu chancelier du Reich... démocratiquement.",
+    "prediction": "Débat a été organisé pour désigner Hitler comme démocrat."
+  },
+  {
+    "source": "Thanks for your permission.",
+    "reference": "Merci pour l'autorisation.",
+    "prediction": "Merci de votre permission."
+  },
+  {
+    "source": "Well, if you're in the illegal weapons business, your list of potential enemies is bound to be a long one.",
+    "reference": "Bien, si tu es dans le commerce illégal d'armes, ta liste d'ennemis potentiels est à coup sûr très longue.",
+    "prediction": "Well, if you're in the illegal weapons business, your list of potential enemies is bound to be a long one."
+  },
+  {
+    "source": "You, too, Marigold, come to... ~ .. me.",
+    "reference": "Vous aussi, Marigold, venez voir... - Venez me voir, ma chérie.",
+    "prediction": "You, too, Marigold, come to..."
+  },
+  {
+    "source": "I don't need to see his face, Diane.",
+    "reference": "Je n'ai pas besoin de voir son visage, Diane.",
+    "prediction": "Don't need to see his face."
+  },
+  {
+    "source": "It was noted that the text of the applicable provisions was different in these Regulations.",
+    "reference": "On a fait observer que le texte des dispositions applicables était différent dans ces Règlements.",
+    "prediction": "It was noted that the text of the applicable provisions was different in these Regulations."
+  },
+  {
+    "source": "These Christians expressed with subtlety their concern for the future.",
+    "reference": "Ces chrétiens exprimaient avec délicatesse leur souffrance par rapport à l'avenir.",
+    "prediction": "These Christians expressed with subtlety their concern for the future."
+  },
+  {
+    "source": "He came papusca barbie summer and needs a special costumatie to withstand...",
+    "reference": "Il est venu papusca barbie été et a besoin d'un costumatie spéciale pour...",
+    "prediction": "He came papusca barbie summer and needs a special costumatie to withstand..."
+  },
+  {
+    "source": "- You have heard of us?",
+    "reference": "- Vous avez entendu parler de nous?",
+    "prediction": "You have heard of us."
+  },
+  {
+    "source": "Coach, I'm a humanist.",
+    "reference": "Je suis une humaniste.",
+    "prediction": "Coach"
+  },
+  {
+    "source": "Oh, yeah. Dinner sounds great.",
+    "reference": "Un dîner serait super.",
+    "prediction": "Oh, yeah."
+  },
+  {
+    "source": "So, uh, what game are you...",
+    "reference": "Alors quel jeux es-tu...",
+    "prediction": "So, uh, what game are you...?"
+  },
+  {
+    "source": "France (10 of 135)",
+    "reference": "France (10 de 135)",
+    "prediction": "France"
+  },
+  {
+    "source": "Credit card address verification",
+    "reference": "Vérification d'adresse par carte de crédit",
+    "prediction": "The translation is: **Verrouillage de l'adresse de crédit.**"
+  },
+  {
+    "source": "I've got cream cakes, sweet meats, pickled herring, and crystallized dates.",
+    "reference": "J'ai du gâteau à la crème, de la viande, du hareng fumé et des dattes confites.",
+    "prediction": "Cream cakes, sweet meats, pickled herring, and crystallized dates."
+  },
+  {
+    "source": "stinky Charlie.",
+    "reference": "Charlie le puant.",
+    "prediction": "Stinky Charlie"
+  },
+  {
+    "source": "Anything you want for a tenner.",
+    "reference": "Tout ce que vous voulez pour 10 livres.",
+    "prediction": "Une somme de 10 euros."
+  },
+  {
+    "source": "USE work of start (2831)",
+    "reference": "USEpatrimoine culturel (2�31) organisation de volontaires patrimoine régional",
+    "prediction": "USE work of start"
+  },
+  {
+    "source": "Beam!",
+    "reference": "Beam !",
+    "prediction": "Beam!"
+  },
+  {
+    "source": "Regulatory regimes differ from province to province and, indeed, sometimes two or three regimes operate within a province.",
+    "reference": "Les régimes réglementaires applicables à cet égard diffèrent d'une province à l'autre et même, parfois, deux ou trois régimes s'appliquent dans la même province.",
+    "prediction": "Regulatory regimes differ from province to province and, indeed, sometimes two or three regimes operate within a province."
+  }
+]

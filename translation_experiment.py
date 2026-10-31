@@ -199,7 +199,8 @@ def run_causal(label, model_name):
     # Prompt-only adaptation is explicitly permitted for decoder-only models.
     tok=AutoTokenizer.from_pretrained(model_name)
     if tok.pad_token is None: tok.pad_token=tok.eos_token
-    model=AutoModelForCausalLM.from_pretrained(model_name, torch_dtype=torch.float16 if DEVICE=="cuda" else torch.float32).to(DEVICE)
+    dtype = torch.float32 if DEVICE != "cuda" else (torch.bfloat16 if label == "gemma_270m" else torch.float16)
+    model=AutoModelForCausalLM.from_pretrained(model_name, dtype=dtype).to(DEVICE)
     model.eval(); params=sum(p.numel() for p in model.parameters())
     preds=[]; sync(); start=time.perf_counter()
     for row in test:
@@ -233,7 +234,7 @@ if __name__ == "__main__":
     run_scratch()
     run_mt5()
     run_causal("tinyllama", "TinyLlama/TinyLlama-1.1B-Chat-v1.0")
-    run_causal("gemma_270m", "google/gemma-3-270m-it")
+    run_causal("gemma_270m", "unsloth/gemma-3-270m-it")
     results={p.stem.replace("_metrics", ""):json.loads(p.read_text()) for p in OUT.glob("*_metrics.json")}
     (OUT/"summary.json").write_text(json.dumps(results, indent=2), encoding="utf-8")
     print(json.dumps(results, indent=2))

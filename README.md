@@ -18,14 +18,14 @@ The [OPUS-100 English-French parallel corpus](https://huggingface.co/datasets/He
 | Basic Transformer | Encoder-decoder | Randomly initialized 2-layer encoder and decoder; train for 2 epochs |
 | [mT5-small](https://huggingface.co/google/mt5-small) | Encoder-decoder | Full fine-tuning with Adafactor for 5 epochs |
 | [TinyLlama 1.1B Chat](https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0) | LLaMA-family decoder-only | Zero-shot translation prompt |
-| [Gemma 3 270M IT](https://huggingface.co/google/gemma-3-270m-it) | Decoder-only | Zero-shot translation prompt |
+| [Gemma 3 270M IT, Unsloth-hosted](https://huggingface.co/unsloth/gemma-3-270m-it) | Decoder-only | Zero-shot translation prompt |
 
 The scratch model uses mT5's tokenizer but **none of its pretrained model weights**. Its vocabulary choice may affect results. TinyLlama and Gemma are prompted rather than trained, so their training time is reported as `null` instead of zero. The comparison is controlled by a common test set, deterministic greedy decoding and a 64-token output limit; model size, pretraining, tokenization and adaptation method remain different, so performance differences cannot be attributed solely to architecture.
 
 ## Run in Google Colab
 
 1. Select **Runtime → Change runtime type → GPU**.
-2. Create a free Hugging Face account, accept the [Gemma model terms](https://huggingface.co/google/gemma-3-270m-it), and log in within Colab using `huggingface_hub.login()` or the `HF_TOKEN` Colab secret. Never commit a token.
+2. Review the [Gemma terms](https://ai.google.dev/gemma/terms). The experiment uses the [Unsloth-hosted Gemma weights](https://huggingface.co/unsloth/gemma-3-270m-it), which are accessible without Hugging Face authentication. Never commit a token.
 3. Clone this repository, then run:
 
    ```bash
@@ -39,7 +39,18 @@ The scratch model uses mT5's tokenizer but **none of its pretrained model weight
 
 `results/summary.json` contains corpus BLEU, chrF, parameter count, training time where applicable, total test inference time, and seconds per test sentence. `*_predictions.json` contains source, reference and prediction for qualitative review. `*_temperature.json` contains 10 sampled outputs at temperatures 0.3, 0.7 and 1.2 for both decoder-only systems. Evaluate temperature by checking fluency, fidelity, hallucination and output variability; these samples are separate from the deterministic test scores. Run `python plot_results.py` to regenerate `results/comparison.png`.
 
-Three systems were measured locally on an NVIDIA GeForce RTX 5060 Laptop GPU. The Gemma run requires Hugging Face authentication and remains pending. Full measurements, examples, temperature observations and responsible-use discussion are in [ANALYSIS.md](ANALYSIS.md). The current highest BLEU and chrF belong to TinyLlama, though the final four-way conclusion awaits Gemma. These small-data results should not be generalized to production translation quality.
+All four systems were measured locally on an NVIDIA GeForce RTX 5060 Laptop GPU using the same 100 test sentences.
+
+| Model | BLEU | chrF | Parameters | Training or fine-tuning time | Test inference time |
+|---|---:|---:|---:|---:|---:|
+| Scratch Transformer | 0.07 | 5.80 | 130,970,868 | 41.4 s | 37.1 s |
+| mT5-small | 0.87 | 12.00 | 300,176,768 | 530.5 s | 34.5 s |
+| TinyLlama | **13.16** | **42.29** | 1,100,048,384 | Not applicable, prompted | 115.5 s |
+| Gemma 3 270M IT | 5.52 | 26.42 | 268,098,176 | Not applicable, prompted | 80.2 s |
+
+TinyLlama is the best-performing model by BLEU and chrF in this experiment. It is the largest and slowest measured system. Gemma is smaller but copied the English source unchanged in 41 of 100 cases. The two encoder-decoder systems were trained or fine-tuned on only 1,200 sentence pairs, so these rankings cannot be attributed to architecture alone. Full examples and limitations are in [ANALYSIS.md](ANALYSIS.md). These small-data results should not be generalized to production translation quality.
+
+For the separate sampling-temperature analysis, 10 sources were generated at 0.3, 0.7 and 1.2 with top-p 0.9. TinyLlama changed its output for all 10 sources across those settings, while Gemma averaged 1.7 distinct outputs per source. Higher temperature sometimes added unrelated text. The scored comparison uses greedy decoding for reproducibility; see [ANALYSIS.md](ANALYSIS.md) and the saved `*_temperature.json` files.
 
 ## Responsible use and qualitative review
 
