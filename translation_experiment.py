@@ -199,7 +199,12 @@ def run_causal(label, model_name):
     # Prompt-only adaptation is explicitly permitted for decoder-only models.
     tok=AutoTokenizer.from_pretrained(model_name)
     if tok.pad_token is None: tok.pad_token=tok.eos_token
-    dtype = torch.float32 if DEVICE != "cuda" else (torch.bfloat16 if label == "gemma_270m" else torch.float16)
+    if label == "gemma_270m":
+        # Float16 produced empty Gemma outputs in this experiment. A Colab T4
+        # lacks bfloat16, so use float32 there; newer GPUs can use bfloat16.
+        dtype = torch.bfloat16 if DEVICE == "cuda" and torch.cuda.is_bf16_supported() else torch.float32
+    else:
+        dtype = torch.float16 if DEVICE == "cuda" else torch.float32
     model=AutoModelForCausalLM.from_pretrained(model_name, dtype=dtype).to(DEVICE)
     model.eval(); params=sum(p.numel() for p in model.parameters())
     preds=[]; sync(); start=time.perf_counter()

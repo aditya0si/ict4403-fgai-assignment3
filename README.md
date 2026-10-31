@@ -22,6 +22,8 @@ The [OPUS-100 English-French parallel corpus](https://huggingface.co/datasets/He
 
 The scratch model uses mT5's tokenizer but **none of its pretrained model weights**. Its vocabulary choice may affect results. TinyLlama and Gemma are prompted rather than trained, so their training time is reported as `null` instead of zero. The comparison is controlled by a common test set, deterministic greedy decoding and a 64-token output limit; model size, pretraining, tokenization and adaptation method remain different, so performance differences cannot be attributed solely to architecture.
 
+Gemma uses bfloat16 on supported GPUs and float32 otherwise. A float16 trial on the local GPU generated empty strings and was excluded from the results. Colab T4 GPUs typically use the float32 path, which may take longer than the reported local bfloat16 timing.
+
 ## Run in Google Colab
 
 1. Select **Runtime → Change runtime type → GPU**.
